@@ -6,3 +6,6 @@ has_toc: true
 ---
 
 # Arbeitsproben
+
+Einblick in mein Schaffen: Werbetexte, redaktionelle Texte, Übersetzungen.
+{: .fs-6 .fw-300 }
