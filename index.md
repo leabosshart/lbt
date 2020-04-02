@@ -1,0 +1,26 @@
+---
+title: Angebot
+has_children: false
+nav_order: 1
+---
+
+# Angebot
+
+![](images/oktopus-275x300.jpg)
+
+Mein Hauptfokus liegt auf dem Texten. Zudem erledige ich Übersetzungen von Englisch, Französisch und Spanisch auf Deutsch. Und da ich etwas allergisch auf Rechtschreibfehler und stilistische Stolpersteine bin, biete ich mit dem gleichen Enthusiasmus ein Korrektorat und Lektorat Ihrer Texte an. Kontaktieren Sie mich für eine unverbindliche Offerte.
+
+## Texte
+
+Werbung: Headlines, Longcopy, Inserate, Flyer, Banner etc.
+Websites inklusive SEO
+redaktionelle Beiträge
+bestehende Texte redigieren
+
+## Übersetzungen
+
+von Englisch, Spanisch und Französisch auf Deutsch
+
+## Korrektorat & Lektorat
+
+fehlerfreie und stilsichere Texte
