@@ -6,8 +6,6 @@ nav_order: 2
 
 # Angebot
 
-![](images/oktopus-275x300.jpg)
-
 Mein Hauptfokus liegt auf dem Texten. Zudem erledige ich Übersetzungen von Englisch, Französisch und Spanisch auf Deutsch. Und da ich etwas allergisch auf Rechtschreibfehler und stilistische Stolpersteine bin, biete ich mit dem gleichen Enthusiasmus ein Korrektorat und Lektorat Ihrer Texte an. Kontaktieren Sie mich für eine unverbindliche Offerte.
 {: .fs-6 .fw-300 }
 
