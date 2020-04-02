@@ -1,7 +1,7 @@
 ---
 title: Tipps und Tricks
 has_children: false
-nav_order: 6
+nav_order: 7
 ---
 
 # 3 Tipps: Wie schreibe ich einen ansprechenden Produkttext?
