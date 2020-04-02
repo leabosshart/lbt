@@ -11,15 +11,15 @@ Mein Hauptfokus liegt auf dem Texten. Zudem erledige ich Übersetzungen von Engl
 
 ## Texte
 
-Werbung: Headlines, Longcopy, Inserate, Flyer, Banner etc.
-Websites inklusive SEO
-redaktionelle Beiträge
-bestehende Texte redigieren
+- Werbung: Headlines, Longcopy, Inserate, Flyer, Banner etc.
+- Websites inklusive SEO
+- redaktionelle Beiträge
+- bestehende Texte redigieren
 
 ## Übersetzungen
 
-von Englisch, Spanisch und Französisch auf Deutsch
+- von Englisch, Spanisch und Französisch auf Deutsch
 
 ## Korrektorat & Lektorat
 
-fehlerfreie und stilsichere Texte
+- fehlerfreie und stilsichere Texte
