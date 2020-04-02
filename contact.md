@@ -10,7 +10,7 @@ Ich freue mich über jedes «Bling» im Posteingang.<br>
 Auch Flaschenpost ist erlaubt. Na looooos:
 {: .fs-6 .fw-300 }
 
-[leabossharttext@gmail.com](){: .btn .btn-purple }
+leabossharttext@gmail.com
 
 [comment]: <> ( <a href="mailto:info@leabosshart.ch">info@leabosshart.ch</a> )
 
