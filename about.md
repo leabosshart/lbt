@@ -9,6 +9,7 @@ nav_order: 2
 ![](images/foto-275x300.jpg)
 
 Ich habe mich schon immer gerne mit Worten befasst. Als Kind ohne Fernseher aufgewachsen, tauchte ich schon bald in Bücherwelten ab. Deshalb auch meine Entscheidung, nach dem gestalterischen Vorkurs und einem angeknabberten Kunststudium Sprachen und Literatur zu studieren. Ins Texten bin ich nach dem Studium reingeschlittert – oder soll ich eher sagen reingetippelt –, irgendwie ja auch naheliegend, als sprach- und schreibbegeisterter Kopf, dessen halbe Seele für die Gestaltung schlägt.
+{: .fs-6 .fw-300 }
 
 ## CV
 

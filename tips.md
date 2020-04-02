@@ -6,7 +6,8 @@ nav_order: 6
 
 # 3 Tipps: Wie schreibe ich einen ansprechenden Produkttext?
 
-## Ein paar Tipps für motivierende Produkttexte in Onlineshops
+Ein paar Tipps für motivierende Produkttexte in Onlineshops
+{: .fs-6 .fw-300 }
 
 Liebe Texterfreundinnen und -freunde
 

@@ -8,6 +8,7 @@ nav_order: 2
 # Redaktionelle Texte
 
 Ob Autos, gebräunte Haut, Smart Home oder Arbeitsplatztausch: Hier finden Sie ein paar Einblicke in meine redaktionellen Texte. Viel Spass beim Stöbern.
+{: .fs-6 .fw-300 }
 
 ## K-Magazin (Yellow Werbeagentur)
 
