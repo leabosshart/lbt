@@ -11,6 +11,7 @@ Auch Flaschenpost ist erlaubt. Na looooos:
 {: .fs-6 .fw-300 }
 
 leabossharttext@gmail.com
+{: .label .label-purple }
 
 [comment]: <> ( <a href="mailto:info@leabosshart.ch">info@leabosshart.ch</a> )
 
