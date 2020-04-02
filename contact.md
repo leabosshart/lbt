@@ -8,7 +8,7 @@ nav_order: 5
 
 Ich freue mich über jedes «Bling» im Posteingang. Auch Flaschenpost ist erlaubt. Na looooos:
 
-info@leabosshart.ch
+leabossharttext@gmail.com
 
 [comment]: <> ( <a href="mailto:info@leabosshart.ch">info@leabosshart.ch</a> )
 
