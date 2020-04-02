@@ -6,7 +6,7 @@ nav_order: 6
 
 # Kontakt(e)
 
-Ich freue mich über jedes «Bling» im Posteingang.
+Ich freue mich über jedes «Bling» im Posteingang.<br>
 Auch Flaschenpost ist erlaubt. Na looooos:
 {: .fs-6 .fw-300 }
 
