@@ -11,7 +11,7 @@ nav_order: 1
 
 Texte für die Lehrlingsplattform für den Kunden Otto Hofstetter AG der Yellow Werbeagentur.
 
-[https://www.otto-hofstetter.swiss/de/jobs/gate2future/](https://www.otto-hofstetter.swiss/de/jobs/gate2future/){:target="_blank"}
+[Link zu der Lehrlingsplattform](https://www.otto-hofstetter.swiss/de/jobs/gate2future/){:target="_blank"}
 
 <img src="images/works1/otto-1.png" loading="lazy" alt="" width="768">
 <img src="images/works1/otto-2.png" loading="lazy" alt="" width="768">
@@ -35,7 +35,7 @@ Die Plattform barto.ch möchte Landwirten die betriebliche Datenerfassung verein
 
 Kompetenzen: Headlines, Copy
 
-[https://www.barto.ch/](https://www.barto.ch/){:target="_blank"}
+[barto.ch](https://www.barto.ch/){:target="_blank"}
 
 <img src="images/works1/barto-1.png" loading="lazy" alt="" width="768">
 <img src="images/works1/barto-2.png" loading="lazy" alt="" width="768">

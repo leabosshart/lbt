@@ -34,7 +34,7 @@ Für den Kunden EEV verfasste ich bei der Agentur 01 unter anderem diesen redakt
 
 Kompetenzen: redaktionelles Schreiben, Recherche
 
-[https://www.e-tec.swiss/de/gebaeudeautomation/mit-smarter-beratung-zum-intelligenten-zuhause/](https://www.e-tec.swiss/de/gebaeudeautomation/mit-smarter-beratung-zum-intelligenten-zuhause/){:target="_blank"}
+[Link zum Beitrag](https://www.e-tec.swiss/de/gebaeudeautomation/mit-smarter-beratung-zum-intelligenten-zuhause/){:target="_blank"}
 
 <img src="images/works2/etec-1.png" loading="lazy" alt="" width="768">
 <img src="images/works2/etec-2.png" loading="lazy" alt="" width="768">
@@ -46,7 +46,7 @@ Ein Beitrag für den Maxomedia-Blog über einen internationalen Jobtausch.
 
 Kompetenzen: redaktionelles Schreiben
 
-[https://maxomedia.ch/leben/mit-herz-und-seele-dabei](https://maxomedia.ch/leben/mit-herz-und-seele-dabei){:target="_blank"}
+[Link zum Beitrag](https://maxomedia.ch/leben/mit-herz-und-seele-dabei){:target="_blank"}
 
 <img src="images/works2/blogbeitrag-1.png" loading="lazy" alt="" width="768">
 <img src="images/works2/blogbeitrag-2.png" loading="lazy" alt="" width="768">
