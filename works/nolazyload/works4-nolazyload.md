@@ -1,12 +1,3 @@
----
-title: Sonstige Projekte
-parent: Arbeitsproben
-has_children: false
-nav_order: 4
----
-
-<!-- <img src="image.png" loading="lazy" alt="" width="768"> -->
-
 # Sonstige Projekte
 
 ## SEO Handbuch
@@ -15,8 +6,8 @@ Ursprünglich von einem Kunden in Auftrag gegeben, wurde daraus ein umfassendes 
 
 Kompetenzen: Recherche, Strukturieren, logischer Aufbau, Schulung
 
-<img src="images/works4/seo-1.png" loading="lazy" alt="" width="768">
-<img src="images/works4/seo-2.png" loading="lazy" alt="" width="768">
+![](images/works4/seo-1.png)
+![](images/works4/seo-2.png)
 
 ## Agency Job Swap (Maxomedia)
 
@@ -24,8 +15,8 @@ Die Website Agency Job Swap ist bei der Maxomedia entstanden. Damit soll der Aus
 
 Kompetenzen: Konzeption, Recherche, Naming, Texte auf Englisch
 
-<img src="images/works4/agencyjobswap-1.png" loading="lazy" alt="" width="768">
-<img src="images/works4/agencyjobswap-2.png" loading="lazy" alt="" width="768">
+![](images/works4/agencyjobswap-1.png)
+![](images/works4/agencyjobswap-2.png)
 
 ## MAX-Bier (Maxomedia)
 
@@ -33,10 +24,10 @@ Für unsere Kunden haben wir bei einer Brauerei ein extra Maxomedia-Bier namens 
 
 Kompetenzen: Recherche, Konzeption, Texte
 
-<img src="images/works4/maxbier-1.jpg" loading="lazy" alt="" width="768">
-<img src="images/works4/maxbier-2.jpg" loading="lazy" alt="" width="768">
-<img src="images/works4/maxbier-3.jpg" loading="lazy" alt="" width="768">
-<img src="images/works4/maxbier-4.jpg" loading="lazy" alt="" width="768">
+![](images/works4/maxbier-1.jpg)
+![](images/works4/maxbier-2.jpg)
+![](images/works4/maxbier-3.jpg)
+![](images/works4/maxbier-4.jpg)
 
 ## Suppen-Leporello für Spoon Basel
 
@@ -44,9 +35,9 @@ Grafik: [NEKA](https://neka.ch/){:target="_blank"},
  Illustration: [Stephan Liechti](http://s-liechti.ch/){:target="_blank"},
  Siebdruck: [Hanspeter Arni](http://arnisiebdruck.ch/){:target="_blank"}
 
-<img src="images/works4/spoon-1.jpg" loading="lazy" alt="" width="768">
-<img src="images/works4/spoon-2.jpg" loading="lazy" alt="" width="768">
-<img src="images/works4/spoon-3.jpg" loading="lazy" alt="" width="768">
-<img src="images/works4/spoon-4.jpg" loading="lazy" alt="" width="768">
-<img src="images/works4/spoon-5.jpg" loading="lazy" alt="" width="768">
-<img src="images/works4/spoon-6.jpg" loading="lazy" alt="" width="768">
+![](images/works4/spoon-1.jpg)
+![](images/works4/spoon-2.jpg)
+![](images/works4/spoon-3.jpg)
+![](images/works4/spoon-4.jpg)
+![](images/works4/spoon-5.jpg)
+![](images/works4/spoon-6.jpg)

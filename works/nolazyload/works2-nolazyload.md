@@ -1,12 +1,3 @@
----
-title: Redaktionelle Texte
-parent: Arbeitsproben
-has_children: false
-nav_order: 2
----
-
-<!-- <img src="image.png" loading="lazy" alt="" width="768"> -->
-
 # Redaktionelle Texte
 
 Ob Autos, gebräunte Haut, Smart Home oder Arbeitsplatztausch: Hier finden Sie ein paar Einblicke in meine redaktionellen Texte. Viel Spass beim Stöbern.
@@ -18,8 +9,8 @@ Interviews und redaktionelle Beiträge im Rahmen meiner Festanstellung bei der Y
 
 Kompetenzen: Recherche, Interview, redaktionelles Schreiben
 
-<img src="images/works2/kmagazin-1.jpg" loading="lazy" alt="" width="768">
-<img src="images/works2/kmagazin-3.jpg" loading="lazy" alt="" width="768">
+![](images/works2/kmagazin-1.jpg)
+![](images/works2/kmagazin-3.jpg)
 
 ## Amavita (Agentur01)
 
@@ -27,8 +18,8 @@ Redaktionelle Beiträge für die Rubriken "Schön" und "Gesund"
 
 Kompetenzen: Recherche, redaktionelles Schreiben
 
-<img src="images/works2/amavita-1.png" loading="lazy" alt="" width="768">
-<img src="images/works2/amavita-3.png" loading="lazy" alt="" width="768">
+![](images/works2/amavita-1.png)
+![](images/works2/amavita-3.png)
 
 ## Artikel E-Tec (Agentur 01)
 
@@ -38,9 +29,9 @@ Kompetenzen: redaktionelles Schreiben, Recherche
 
 [https://www.e-tec.swiss/de/gebaeudeautomation/mit-smarter-beratung-zum-intelligenten-zuhause/](https://www.e-tec.swiss/de/gebaeudeautomation/mit-smarter-beratung-zum-intelligenten-zuhause/){:target="_blank"}
 
-<img src="images/works2/etec-1.png" loading="lazy" alt="" width="768">
-<img src="images/works2/etec-2.png" loading="lazy" alt="" width="768">
-<img src="images/works2/etec-3.png" loading="lazy" alt="" width="768">
+![](images/works2/etec-1.png)
+![](images/works2/etec-2.png)
+![](images/works2/etec-3.png)
 
 ## Blogbeitrag (Maxomedia)
 
@@ -50,5 +41,5 @@ Kompetenzen: redaktionelles Schreiben
 
 [https://maxomedia.ch/leben/mit-herz-und-seele-dabei](https://maxomedia.ch/leben/mit-herz-und-seele-dabei){:target="_blank"}
 
-<img src="images/works2/blogbeitrag-1.png" loading="lazy" alt="" width="768">
-<img src="images/works2/blogbeitrag-2.png" loading="lazy" alt="" width="768">
+![](images/works2/blogbeitrag-1.png)
+![](images/works2/blogbeitrag-2.png)
