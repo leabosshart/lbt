@@ -5,8 +5,6 @@ has_children: false
 nav_order: 2
 ---
 
-<!-- <img src="image.png" loading="lazy" alt="" width="768"> -->
-
 # Redaktionelle Texte
 
 Ob Autos, gebräunte Haut, Smart Home oder Arbeitsplatztausch: Hier finden Sie ein paar Einblicke in meine redaktionellen Texte. Viel Spass beim Stöbern.

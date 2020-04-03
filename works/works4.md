@@ -5,8 +5,6 @@ has_children: false
 nav_order: 4
 ---
 
-<!-- <img src="image.png" loading="lazy" alt="" width="768"> -->
-
 # Sonstige Projekte
 
 ## SEO Handbuch

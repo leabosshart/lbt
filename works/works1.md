@@ -5,8 +5,6 @@ has_children: false
 nav_order: 1
 ---
 
-<!-- <img src="image.png" loading="lazy" alt="" width="768"> -->
-
 # Texte für Werbung
 
 ## Otto Hofstetter Lehrlingsplattform (Yellow Werbeagentur)

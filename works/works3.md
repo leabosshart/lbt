@@ -5,8 +5,6 @@ has_children: false
 nav_order: 3
 ---
 
-<!-- <img src="image.png" loading="lazy" alt="" width="768"> -->
-
 # Übersetzungen
 
 ## Kinderbuch «STÍNA» von Lani Yamamoto, Übersetzung Englisch-Deutsch. Verlag: Helvetiq
