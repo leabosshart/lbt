@@ -2,6 +2,7 @@
 title: Tipps und Tricks
 has_children: true
 nav_order: 7
+has_toc: false
 ---
 
 # Tipps und Tricks
