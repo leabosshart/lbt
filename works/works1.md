@@ -23,7 +23,7 @@ Die Auftraggeberin VHS Schwarzenburg wollte auf witzige Art und Weise auf ihr vi
 
 <img src="images/works1/vhs-1.jpg" loading="lazy" alt="" width="768">
 <img src="images/works1/vhs-2.jpg" loading="lazy" alt="" width="768">
-<!-- <img src="images/works1/vhs-3.jpg" loading="lazy" alt="" width="768">-->
+<!-- <img src="images/works1/vhs-3.jpg" loading="lazy" alt="" width="768"> -->
 <!-- <img src="images/works1/vhs-4.jpg" loading="lazy" alt="" width="768"> -->
 <img src="images/works1/vhs-5.jpg" loading="lazy" alt="" width="768">
 <img src="images/works1/vhs-6.jpg" loading="lazy" alt="" width="768">
@@ -46,10 +46,12 @@ Für die Sonderausstellung «Mut zum Hut» unseres Kunden Spielzeug Welten Museu
 
 Kompetenzen: Texten
 
-<img src="images/works1/swmb-hut-1.jpg" loading="lazy" alt="" width="768">
-<img src="images/works1/swmb-hut-2.jpg" loading="lazy" alt="" width="768">
-<img src="images/works1/swmb-taschen-1.jpg" loading="lazy" alt="" width="768">
-<img src="images/works1/swmb-taschen-2.jpg" loading="lazy" alt="" width="768">
+<!-- <img src="images/works1/swmb-hut-1.jpg" loading="lazy" alt="" width="768"> -->
+<!-- <img src="images/works1/swmb-hut-2.jpg" loading="lazy" alt="" width="768"> -->
+<img src="images/works1/swmb-hut-3.jpg" loading="lazy" alt="" width="768">
+<!-- <img src="images/works1/swmb-taschen-1.jpg" loading="lazy" alt="" width="768"> -->
+<!-- <img src="images/works1/swmb-taschen-2.jpg" loading="lazy" alt="" width="768"> -->
+<img src="images/works1/swmb-taschen-3.jpg" loading="lazy" alt="" width="768">
 
 ## Tillate Paid Post für Erlebniskompass (Maxomedia)
 
