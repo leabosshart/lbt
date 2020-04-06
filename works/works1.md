@@ -7,15 +7,18 @@ nav_order: 1
 
 # Texte für Werbung
 
-## Otto Hofstetter Lehrlingsplattform (Yellow Werbeagentur)
+## Spielzeug Welten Museum Basel (Yellow Werbeagentur)
 
-Texte für die Lehrlingsplattform für den Kunden Otto Hofstetter AG der Yellow Werbeagentur.
+Für die Sonderausstellung «Mut zum Hut» unseres Kunden Spielzeug Welten Museum Basel durfte ich ein Kinderbooklet schreiben. 
 
-[Link zu der Lehrlingsplattform](https://www.otto-hofstetter.swiss/de/jobs/gate2future/){:target="_blank"}
+Kompetenzen: Texten
 
-<img src="images/works1/otto-1.png" loading="lazy" alt="" width="768">
-<img src="images/works1/otto-2.png" loading="lazy" alt="" width="768">
-<img src="images/works1/otto-3.png" loading="lazy" alt="" width="768">
+<!-- <img src="images/works1/swmb-hut-1.jpg" loading="lazy" alt="" width="768"> -->
+<!-- <img src="images/works1/swmb-hut-2.jpg" loading="lazy" alt="" width="768"> -->
+<img src="images/works1/swmb-hut-3.jpg" loading="lazy" alt="" width="768">
+<!-- <img src="images/works1/swmb-taschen-1.jpg" loading="lazy" alt="" width="768"> -->
+<!-- <img src="images/works1/swmb-taschen-2.jpg" loading="lazy" alt="" width="768"> -->
+<img src="images/works1/swmb-taschen-3.jpg" loading="lazy" alt="" width="768">
 
 ## VHS Schwarzenburg: Postkarten (freiberuflicher Auftrag)
 
@@ -29,6 +32,16 @@ Die Auftraggeberin VHS Schwarzenburg wollte auf witzige Art und Weise auf ihr vi
 <img src="images/works1/vhs-6.jpg" loading="lazy" alt="" width="768">
 <img src="images/works1/vhs-8.jpg" loading="lazy" alt="" width="768">
 
+## Otto Hofstetter Lehrlingsplattform (Yellow Werbeagentur)
+
+Texte für die Lehrlingsplattform für den Kunden Otto Hofstetter AG der Yellow Werbeagentur.
+
+[Link zu der Lehrlingsplattform](https://www.otto-hofstetter.swiss/de/jobs/gate2future/){:target="_blank"}
+
+<img src="images/works1/otto-1.png" loading="lazy" alt="" width="768">
+<img src="images/works1/otto-2.png" loading="lazy" alt="" width="768">
+<img src="images/works1/otto-3.png" loading="lazy" alt="" width="768">
+
 ## Barto AG (Agentur01)
 
 Die Plattform barto.ch möchte Landwirten die betriebliche Datenerfassung vereinfachen. Ich habe alle Texte verfasst. 
@@ -39,19 +52,6 @@ Kompetenzen: Headlines, Copy
 
 <img src="images/works1/barto-1.png" loading="lazy" alt="" width="768">
 <img src="images/works1/barto-2.png" loading="lazy" alt="" width="768">
-
-## Spielzeug Welten Museum Basel (Yellow Werbeagentur)
-
-Für die Sonderausstellung «Mut zum Hut» unseres Kunden Spielzeug Welten Museum Basel durfte ich ein Kinderbooklet schreiben. 
-
-Kompetenzen: Texten
-
-<!-- <img src="images/works1/swmb-hut-1.jpg" loading="lazy" alt="" width="768"> -->
-<!-- <img src="images/works1/swmb-hut-2.jpg" loading="lazy" alt="" width="768"> -->
-<img src="images/works1/swmb-hut-3.jpg" loading="lazy" alt="" width="768">
-<!-- <img src="images/works1/swmb-taschen-1.jpg" loading="lazy" alt="" width="768"> -->
-<!-- <img src="images/works1/swmb-taschen-2.jpg" loading="lazy" alt="" width="768"> -->
-<img src="images/works1/swmb-taschen-3.jpg" loading="lazy" alt="" width="768">
 
 ## Tillate Paid Post für Erlebniskompass (Maxomedia)
 
