@@ -34,11 +34,14 @@ Für den Kunden EEV verfasste ich bei der Agentur 01 unter anderem diesen redakt
 
 Kompetenzen: redaktionelles Schreiben, Recherche
 
-[Link zum Beitrag](https://www.e-tec.swiss/de/gebaeudeautomation/mit-smarter-beratung-zum-intelligenten-zuhause/){:target="_blank"}
+Links zu den Artikeln auf dem e-tec Online-Magazin:
 
-<img src="images/works2/etec-1.png" loading="lazy" alt="" width="768">
-<img src="images/works2/etec-2.png" loading="lazy" alt="" width="768">
-<img src="images/works2/etec-3.png" loading="lazy" alt="" width="768">
+  - [Eine Strategie für mehr Nachhaltigkeit](https://www.e-tec.swiss/de/alternative-energien/eine-strategie-fuer-mehr-nachhaltigkeit/){:target="_blank"}
+  - [Mit smarter Beratung zum intelligenten Zuhause](https://www.e-tec.swiss/de/gebaeudeautomation/mit-smarter-beratung-zum-intelligenten-zuhause/){:target="_blank"}
+  - [Sorgfältig planen, erfolgreich umbauen](https://www.e-tec.swiss/de/basis-installation/sorgfaeltig-planen-erfolgreich-umbauen/){:target="_blank"}
+  - [Grund zum Strahlen: die Photovoltaikanlage](https://www.e-tec.swiss/de/alternative-energien/grund-zum-strahlen-die-photovoltaikanlage/){:target="_blank"}
+
+<img src="images/works2/etec-1.jpg" loading="lazy" alt="" width="768">
 
 ## Blogbeitrag (Maxomedia)
 
