@@ -12,9 +12,7 @@ Ob Autos, gebräunte Haut, Smart Home oder Arbeitsplatztausch: Hier finden Sie e
 
 ## K-Magazin (Yellow Werbeagentur)
 
-Interviews und redaktionelle Beiträge im Rahmen meiner Festanstellung bei der Yellow Werbeagentur. 
-
-Kompetenzen: Recherche, Interview, redaktionelles Schreiben
+Interviews und redaktionelle Beiträge im Rahmen meiner Festanstellung bei der Yellow Werbeagentur.
 
 <img src="images/works2/kmagazin-1.jpg" loading="lazy" alt="" width="768">
 <img src="images/works2/kmagazin-3.jpg" loading="lazy" alt="" width="768">
@@ -23,16 +21,12 @@ Kompetenzen: Recherche, Interview, redaktionelles Schreiben
 
 Redaktionelle Beiträge für die Rubriken "Schön" und "Gesund"
 
-Kompetenzen: Recherche, redaktionelles Schreiben
-
 <img src="images/works2/amavita-1.jpg" loading="lazy" alt="" width="768">
 <img src="images/works2/amavita-2.jpg" loading="lazy" alt="" width="768">
 
 ## Artikel E-Tec (Agentur 01)
 
 Für den Kunden EEV verfasste ich bei der Agentur 01 unter anderem diesen redaktionellen Beitrag zur Hausautomation; ausserdem diverse Artikel für das Printmagazin Elitec.
-
-Kompetenzen: redaktionelles Schreiben, Recherche
 
 Links zu den Artikeln auf dem e-tec Online-Magazin:
 
@@ -46,8 +40,6 @@ Links zu den Artikeln auf dem e-tec Online-Magazin:
 ## Blogbeitrag (Maxomedia)
 
 Ein Beitrag für den Maxomedia-Blog über einen internationalen Jobtausch.
-
-Kompetenzen: redaktionelles Schreiben
 
 [Link zum Beitrag](https://maxomedia.ch/leben/mit-herz-und-seele-dabei){:target="_blank"}
 

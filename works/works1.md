@@ -9,9 +9,7 @@ nav_order: 1
 
 ## Spielzeug Welten Museum Basel (Yellow Werbeagentur)
 
-Für die Sonderausstellung «Mut zum Hut» unseres Kunden Spielzeug Welten Museum Basel durfte ich ein Kinderbooklet schreiben. 
-
-Kompetenzen: Texten
+Für die Sonderausstellung «Mut zum Hut» unseres Kunden Spielzeug Welten Museum Basel durfte ich ein Kinderbooklet schreiben.
 
 <!-- <img src="images/works1/swmb-hut-1.jpg" loading="lazy" alt="" width="768"> -->
 <!-- <img src="images/works1/swmb-hut-2.jpg" loading="lazy" alt="" width="768"> -->
@@ -51,9 +49,7 @@ Texte für die Lehrlingsplattform für den Kunden Otto Hofstetter AG der Yellow 
 
 ## Barto AG (Agentur01)
 
-Die Plattform barto.ch möchte Landwirten die betriebliche Datenerfassung vereinfachen. Ich habe alle Texte verfasst. 
-
-Kompetenzen: Headlines, Copy
+Die Plattform barto.ch möchte Landwirten die betriebliche Datenerfassung vereinfachen. Ich habe alle Texte verfasst.
 
 [barto.ch](https://www.barto.ch/){:target="_blank"}
 
@@ -68,9 +64,7 @@ Um die Europa-Challenge für den Erlebniskompass von Gleis 7 zu bewerben, verfas
 
 ## Gleis 7 SBB (Maxomedia)
 
-Für die Plattform "Erlebniskompass" von Gleis 7 durfte ich die Erlebnisse der zwei Challenges "Budget" und "Sonnentanz" texten. Bei der Wahl der Erlebnisse war ich vollkommen frei. 
-
-Kompetenzen: Recherche, Texten
+Für die Plattform "Erlebniskompass" von Gleis 7 durfte ich die Erlebnisse der zwei Challenges "Budget" und "Sonnentanz" texten. Bei der Wahl der Erlebnisse war ich vollkommen frei.
 
 <img src="images/works1/gleis7-1.jpg" loading="lazy" alt="" width="768">
 <img src="images/works1/gleis7-2.jpg" loading="lazy" alt="" width="768">

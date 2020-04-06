@@ -25,5 +25,5 @@ nav_order: 5
 
   - Stína, EN – DE (Kinderbuch)
   - Welche Grösse hat dein Herz? Originaltitel: De quelle taille est ton coeur? FR – DE (Kinderbuch)
-  - Haute Fondue FR – DE (Kochbuch)
+  - Haute Fondue, FR – DE (Kochbuch)
   - Gut getippt! Originaltitel: Dans le mille! FR – DE (Spiel)
