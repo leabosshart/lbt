@@ -32,6 +32,13 @@ Die Auftraggeberin VHS Schwarzenburg wollte auf witzige Art und Weise auf ihr vi
 <img src="images/works1/vhs-6.jpg" loading="lazy" alt="" width="768">
 <img src="images/works1/vhs-8.jpg" loading="lazy" alt="" width="768">
 
+## Kestenholz (Yellow Werbeagentur)
+
+Headlines
+
+<img src="images/works1/kestenholz-1.jpg" loading="lazy" alt="" width="768">
+<img src="images/works1/kestenholz-2.jpg" loading="lazy" alt="" width="768">
+
 ## Otto Hofstetter Lehrlingsplattform (Yellow Werbeagentur)
 
 Texte für die Lehrlingsplattform für den Kunden Otto Hofstetter AG der Yellow Werbeagentur.
