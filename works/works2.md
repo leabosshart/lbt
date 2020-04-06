@@ -25,8 +25,8 @@ Redaktionelle Beiträge für die Rubriken "Schön" und "Gesund"
 
 Kompetenzen: Recherche, redaktionelles Schreiben
 
-<img src="images/works2/amavita-1.png" loading="lazy" alt="" width="768">
-<img src="images/works2/amavita-3.png" loading="lazy" alt="" width="768">
+<img src="images/works2/amavita-1.jpg" loading="lazy" alt="" width="768">
+<img src="images/works2/amavita-2.jpg" loading="lazy" alt="" width="768">
 
 ## Artikel E-Tec (Agentur 01)
 
