@@ -36,11 +36,11 @@ Kompetenzen: redaktionelles Schreiben, Recherche
 
 Links zu den Artikeln auf dem e-tec Online-Magazin:
 
-  - [Eine Strategie für mehr Nachhaltigkeit](https://www.e-tec.swiss/de/alternative-energien/eine-strategie-fuer-mehr-nachhaltigkeit/){:target="_blank"}
-  - [Mit smarter Beratung zum intelligenten Zuhause](https://www.e-tec.swiss/de/gebaeudeautomation/mit-smarter-beratung-zum-intelligenten-zuhause/){:target="_blank"}
-  - [Sorgfältig planen, erfolgreich umbauen](https://www.e-tec.swiss/de/basis-installation/sorgfaeltig-planen-erfolgreich-umbauen/){:target="_blank"}
-  - [Grund zum Strahlen: die Photovoltaikanlage](https://www.e-tec.swiss/de/alternative-energien/grund-zum-strahlen-die-photovoltaikanlage/){:target="_blank"}
-<br><br>
+- [Eine Strategie für mehr Nachhaltigkeit](https://www.e-tec.swiss/de/alternative-energien/eine-strategie-fuer-mehr-nachhaltigkeit/){:target="_blank"}
+- [Mit smarter Beratung zum intelligenten Zuhause](https://www.e-tec.swiss/de/gebaeudeautomation/mit-smarter-beratung-zum-intelligenten-zuhause/){:target="_blank"}
+- [Sorgfältig planen, erfolgreich umbauen](https://www.e-tec.swiss/de/basis-installation/sorgfaeltig-planen-erfolgreich-umbauen/){:target="_blank"}
+- [Grund zum Strahlen: die Photovoltaikanlage](https://www.e-tec.swiss/de/alternative-energien/grund-zum-strahlen-die-photovoltaikanlage/){:target="_blank"}
+
 <img src="images/works2/etec-1.jpg" loading="lazy" alt="" width="768">
 
 ## Blogbeitrag (Maxomedia)
