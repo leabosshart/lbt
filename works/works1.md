@@ -23,8 +23,9 @@ Die Auftraggeberin VHS Schwarzenburg wollte auf witzige Art und Weise auf ihr vi
 
 <img src="images/works1/vhs-1.jpg" loading="lazy" alt="" width="768">
 <img src="images/works1/vhs-2.jpg" loading="lazy" alt="" width="768">
-<img src="images/works1/vhs-3.jpg" loading="lazy" alt="" width="768">
-<!-- <img src="images/works1/vhs-4.jpg" loading="lazy" alt="" width="768"> --><img src="images/works1/vhs-5.jpg" loading="lazy" alt="" width="768">
+<!-- <img src="images/works1/vhs-3.jpg" loading="lazy" alt="" width="768">-->
+<!-- <img src="images/works1/vhs-4.jpg" loading="lazy" alt="" width="768"> -->
+<img src="images/works1/vhs-5.jpg" loading="lazy" alt="" width="768">
 <img src="images/works1/vhs-6.jpg" loading="lazy" alt="" width="768">
 <img src="images/works1/vhs-8.jpg" loading="lazy" alt="" width="768">
 
