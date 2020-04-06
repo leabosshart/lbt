@@ -21,3 +21,6 @@ footer_content: "Copyright &copy; 2020 Lea Bosshart"
 # allowing users to deep link to a particular heading on a page.
 # Supports true (default) or false/nil
 heading_anchors: false
+
+# Google Analytics Tracking (optional)
+# ga_tracking: UA-2709176-10
