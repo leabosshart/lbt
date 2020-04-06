@@ -15,6 +15,7 @@ Kompetenzen: Recherche, Strukturieren, logischer Aufbau, Schulung
 
 <!-- <img src="images/works4/seo-1.jpg" loading="lazy" alt="" width="768"> -->
 <!-- <img src="images/works4/seo-2.jpg" loading="lazy" alt="" width="768"> -->
+<img src="images/works4/seo-0.jpg" loading="lazy" alt="" width="768">
 <img src="images/works4/seo-3.jpg" loading="lazy" alt="" width="768">
 <img src="images/works4/seo-4.jpg" loading="lazy" alt="" width="768">
 
