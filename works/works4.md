@@ -35,9 +35,7 @@ Für unsere Kunden haben wir bei einer Brauerei ein extra Maxomedia-Bier namens 
 
 ## Suppen-Leporello für Spoon Basel
 
-Grafik: [NEKA](https://neka.ch/){:target="_blank"},
- Illustration: [Stephan Liechti](http://s-liechti.ch/){:target="_blank"},
- Siebdruck: [Hanspeter Arni](http://arnisiebdruck.ch/){:target="_blank"}
+Grafik: [NEKA](https://neka.ch/){:target="_blank"}, Illustration: [Stephan Liechti](http://s-liechti.ch/){:target="_blank"}, Siebdruck: [Hanspeter Arni](http://arnisiebdruck.ch/){:target="_blank"}
 
 <img src="images/works4/spoon-1.jpg" loading="lazy" alt="" width="768">
 <img src="images/works4/spoon-2.jpg" loading="lazy" alt="" width="768">
