@@ -65,5 +65,5 @@ Für die Plattform "Erlebniskompass" von Gleis 7 durfte ich die Erlebnisse der z
 
 Kompetenzen: Recherche, Texten
 
-<img src="images/works1/gleis7-1.png" loading="lazy" alt="" width="768">
-<img src="images/works1/gleis7-2.png" loading="lazy" alt="" width="768">
+<img src="images/works1/gleis7-1.jpg" loading="lazy" alt="" width="768">
+<img src="images/works1/gleis7-2.jpg" loading="lazy" alt="" width="768">
