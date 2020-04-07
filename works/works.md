@@ -7,7 +7,7 @@ has_toc: false
 
 # Arbeitsproben
 
-Einblick in mein Schaffen: Werbetexte, redaktionelle Texte, Übersetzungen.
+Eintauchen — in mein Schaffen, meine Erfahrungen und Kompetenzen.
 {: .fs-6 .fw-300 }
 
 - [Texte für Werbung]({{ site.baseurl }}{% link works/works1.md %})

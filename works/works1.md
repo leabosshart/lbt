@@ -7,9 +7,9 @@ nav_order: 1
 
 # Texte für Werbung
 
-## Spielzeug Welten Museum Basel (Yellow Werbeagentur)
+## Spielzeug Welten Museum Basel: Kinderbooklets
 
-Für die Sonderausstellung «Mut zum Hut» unseres Kunden Spielzeug Welten Museum Basel durfte ich ein Kinderbooklet schreiben.
+Diese Kinderbooklets für die Sonderausstellungen «Mut zum Hut» und «Taschen — Ikonen und Wertanlagen» des Kunden Spielzeug Welten Museum Basel schrieb ich während meiner Anstellung als Texterin bei der Yellow Werbeagentur.
 
 <!-- <img src="images/works1/swmb-hut-1.jpg" loading="lazy" alt="" width="768"> -->
 <!-- <img src="images/works1/swmb-hut-2.jpg" loading="lazy" alt="" width="768"> -->
@@ -18,9 +18,9 @@ Für die Sonderausstellung «Mut zum Hut» unseres Kunden Spielzeug Welten Museu
 <!-- <img src="images/works1/swmb-taschen-2.jpg" loading="lazy" alt="" width="768"> -->
 <img src="images/works1/swmb-taschen-3.jpg" loading="lazy" alt="" width="768">
 
-## VHS Schwarzenburg: Postkarten (freiberuflicher Auftrag)
+## VHS Schwarzenburg: Postkarten
 
-Die Auftraggeberin VHS Schwarzenburg wollte auf witzige Art und Weise auf ihr vielfältiges Kursangebot hinweisen. In Zusammenarbeit mit der selbständig tätigen Grafikerin Silvia Rohrbach entstanden diese Postkarten. 
+Die Auftraggeberin VHS Schwarzenburg wollte auf witzige Art und Weise auf ihr vielfältiges Kursangebot hinweisen. In Zusammenarbeit mit der selbständig tätigen Grafikerin Silvia Rohrbach entstanden diese Postkarten.
 
 <img src="images/works1/vhs-1.jpg" loading="lazy" alt="" width="768">
 <img src="images/works1/vhs-2.jpg" loading="lazy" alt="" width="768">
@@ -30,9 +30,13 @@ Die Auftraggeberin VHS Schwarzenburg wollte auf witzige Art und Weise auf ihr vi
 <img src="images/works1/vhs-6.jpg" loading="lazy" alt="" width="768">
 <img src="images/works1/vhs-8.jpg" loading="lazy" alt="" width="768">
 
-## Kestenholz (Yellow Werbeagentur)
+## Kestenholz: Anzeige und Flyer
 
-Headlines
+Eine Print-Anzeige für Kestenholz, die Oldtimer-Liebhaber anspricht — nämlich die Mitglieder des Mercedes-Benz Veteranenclub Schweiz.
+
+Der Flyer bewarb einen Oster-Malwettbewerb für Kinder. Er wurde an die Kunden von Kestenholz verschickt und lag in den Standorten des Automobilhändlers auf.
+
+Beides entstand bei der Yellow Werbeagentur.
 
 <img src="images/works1/kestenholz-1.jpg" loading="lazy" alt="" width="768">
 <img src="images/works1/kestenholz-2.jpg" loading="lazy" alt="" width="768">
