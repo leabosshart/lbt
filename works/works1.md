@@ -55,8 +55,8 @@ Beides entstand bei der Yellow Werbeagentur.
 
 Die Plattform barto.ch möchte Landwirten die betriebliche Datenerfassung vereinfachen. Ich habe alle Texte verfasst.
 
-<img src="images/works1/barto-1.png" loading="lazy" alt="" width="768">
-<img src="images/works1/barto-2.png" loading="lazy" alt="" width="768">
+<img src="images/works1/barto-3.jpg" loading="lazy" alt="" width="768">
+<img src="images/works1/barto-4.jpg" loading="lazy" alt="" width="768">
 
 ## SBB: Erlebniskompass gleis7.ch
 
