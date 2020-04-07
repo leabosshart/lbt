@@ -41,34 +41,26 @@ Beides entstand bei der Yellow Werbeagentur.
 <img src="images/works1/kestenholz-1.jpg" loading="lazy" alt="" width="768">
 <img src="images/works1/kestenholz-2.jpg" loading="lazy" alt="" width="768">
 
-## Otto Hofstetter Lehrlingsplattform (Yellow Werbeagentur)
+## Otto Hofstetter: Lehrlingsplattform
 
-Texte für die Lehrlingsplattform für den Kunden Otto Hofstetter AG der Yellow Werbeagentur.
+«Gate to the future» ist eine Lehrlingsplattform, wo angehenden Auszubildenden die Berufe bei der Otto Hofstetter AG schmackhaft gemacht werden. Die Texte verfasste ich während meiner Anstellung bei der Yellow Werbeagentur.
 
-[Link zu der Lehrlingsplattform](https://www.otto-hofstetter.swiss/de/jobs/gate2future/){:target="_blank"}
+[Hier geht’s zur Plattform](https://www.otto-hofstetter.swiss/de/jobs/gate2future/){:target="_blank"}
 
 <img src="images/works1/otto-1.png" loading="lazy" alt="" width="768">
 <img src="images/works1/otto-2.png" loading="lazy" alt="" width="768">
 <img src="images/works1/otto-3.png" loading="lazy" alt="" width="768">
 
-## Barto AG (Agentur01)
+## Barto: Datenerfassung für Landwirte
 
 Die Plattform barto.ch möchte Landwirten die betriebliche Datenerfassung vereinfachen. Ich habe alle Texte verfasst.
-
-[barto.ch](https://www.barto.ch/){:target="_blank"}
 
 <img src="images/works1/barto-1.png" loading="lazy" alt="" width="768">
 <img src="images/works1/barto-2.png" loading="lazy" alt="" width="768">
 
-## Tillate Paid Post für Erlebniskompass (Maxomedia)
+## SBB: Erlebniskompass gleis7.ch
 
-Um die Europa-Challenge für den Erlebniskompass von Gleis 7 zu bewerben, verfasste ich einen Paid Post, der auf Tillate publiziert wurde.
-
-<img src="images/works1/tillate-1.png" loading="lazy" alt="" width="768">
-
-## Gleis 7 SBB (Maxomedia)
-
-Für die Plattform "Erlebniskompass" von Gleis 7 durfte ich die Erlebnisse der zwei Challenges "Budget" und "Sonnentanz" texten. Bei der Wahl der Erlebnisse war ich vollkommen frei.
+Die Plattform «Erlebniskompass» von Gleis 7 motivierte Jugendliche zu Ausflügen und Erlebnissen, die sie danach online bewerten konnten. Alle zwei Monate winkte eine neue «Challenge» mit Erlebnissen, bei denen auch beliebte YouTuber/innen mitmachten. Ich erarbeitete und schrieb die Inhalte der zwei Challenges «Budget» und «Sonnentanz» als Textpraktikantin bei der Maxomedia. Bei der Wahl der Erlebnisse war ich vollkommen frei.
 
 <img src="images/works1/gleis7-1.jpg" loading="lazy" alt="" width="768">
 <img src="images/works1/gleis7-2.jpg" loading="lazy" alt="" width="768">
