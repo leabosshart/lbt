@@ -53,7 +53,7 @@ Beides entstand bei der Yellow Werbeagentur.
 
 ## Barto: Datenerfassung für Landwirte
 
-Die Plattform barto.ch möchte Landwirten die betriebliche Datenerfassung vereinfachen. Ich habe alle Texte verfasst.
+Die Website Barto.ch möchte Bäuerinnen und Landwirten die betriebliche Datenerfassung vereinfachen. Ich verfasste als Texterin bei der Agentur 01 für den Kunden Barto AG alle Texte dafür.
 
 <img src="images/works1/barto-3.jpg" loading="lazy" alt="" width="768">
 <img src="images/works1/barto-4.jpg" loading="lazy" alt="" width="768">
