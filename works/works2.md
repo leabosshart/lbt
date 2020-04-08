@@ -49,5 +49,5 @@ Ein Beitrag für den Maxomedia-Blog, den ich als Texpraktikantin schrieb. Es geh
 
 [Link zum Beitrag](https://maxomedia.ch/leben/mit-herz-und-seele-dabei){:target="_blank"}
 
-<img src="images/works2/blogbeitrag-1.png" loading="lazy" alt="" width="768">
-<img src="images/works2/blogbeitrag-2.png" loading="lazy" alt="" width="768">
+<img src="images/works2/blogbeitrag-3.jpg" loading="lazy" alt="" width="768">
+<img src="images/works2/blogbeitrag-4.jpg" loading="lazy" alt="" width="768">
