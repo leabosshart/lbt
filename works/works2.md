@@ -7,7 +7,7 @@ nav_order: 2
 
 # Redaktionelle Texte
 
-Ob schnelle Autos, erneuerbare Energien oder Arbeitsplatztausch: Hier finden Sie ein paar Einblicke in meine redaktionellen Texte. Viel Spass beim Stöbern.
+Ob schnelle Autos, erneuerbare Energien oder Arbeitsplatztausch: Hier finden Sie ein paar Einblicke in meine redaktionellen Texte mit Tiefgang.
 {: .fs-6 .fw-300 }
 
 ## Kestenholz: K-Magazin
@@ -16,8 +16,7 @@ Für das Magazin des Kunden Kestenholz erstellte ich während meiner Tätigkeit 
 
 <img src="images/works2/kmagazin-1.jpg" loading="lazy" alt="" width="768">
 <img src="images/works2/kmagazin-3.jpg" loading="lazy" alt="" width="768">
-<img src="images/works2/kmagazin-5.jpg" loading="lazy" alt="" width="768">
-<img src="images/works2/kmagazin-6.jpg" loading="lazy" alt="" width="768">
+<img src="images/works2/kmagazin-7.jpg" loading="lazy" alt="" width="768">
 
 ## Amavita: Amavita Magazin
 
