@@ -21,8 +21,8 @@ Ursprünglich von einem Kunden in Auftrag gegeben, wurde daraus ein umfassendes 
 
 Die Website Agency Job Swap ist bei der Maxomedia entstanden. Damit soll der Austausch zwischen Mitarbeitern internationaler Werbeagentur gefördert werden. Ich habe alle Texte geschrieben und das Projekt zusammen mit einem Grafiker konzipiert.
 
-<img src="images/works4/agencyjobswap-1.png" loading="lazy" alt="" width="768">
-<img src="images/works4/agencyjobswap-2.png" loading="lazy" alt="" width="768">
+<img src="images/works4/agencyjobswap-1.jpg" loading="lazy" alt="" width="768">
+<img src="images/works4/agencyjobswap-2.jpg" loading="lazy" alt="" width="768">
 
 ## MAX-Bier (Maxomedia)
 

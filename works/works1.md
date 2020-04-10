@@ -50,9 +50,9 @@ Beides entstand bei der Yellow Werbeagentur.
 
 [Hier geht’s zur Plattform](https://www.otto-hofstetter.swiss/de/jobs/gate2future/){:target="_blank"}
 
-<img src="images/works1/otto-1.png" loading="lazy" alt="" width="768">
-<img src="images/works1/otto-2.png" loading="lazy" alt="" width="768">
-<img src="images/works1/otto-3.png" loading="lazy" alt="" width="768">
+<img src="images/works1/otto-1.jpg" loading="lazy" alt="" width="768">
+<img src="images/works1/otto-2.jpg" loading="lazy" alt="" width="768">
+<img src="images/works1/otto-3.jpg" loading="lazy" alt="" width="768">
 
 ## Barto: Datenerfassung für Landwirte
 
