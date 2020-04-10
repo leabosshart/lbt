@@ -14,16 +14,16 @@ Ob schnelle Autos, erneuerbare Energien oder Arbeitsplatztausch: Hier finden Sie
 
 Für das Magazin des Kunden Kestenholz erstellte ich während meiner Tätigkeit bei der Yellow Werbeagentur redaktionelle Beiträge, meistens auf Basis von Interviews. Hochaktuell: Das Start-up Blue Inductive aus Freiburg erfand ein berührungsloses Schnellladegerät erfand, das die Zukunft der Elektromobilität prägen könnte.
 
-<img src="images/works2/kmagazin-1.jpg" loading="lazy" alt="" width="768">
-<img src="images/works2/kmagazin-3.jpg" loading="lazy" alt="" width="768">
-<img src="images/works2/kmagazin-7.jpg" loading="lazy" alt="" width="768">
+<img src="images/works2/kmagazin-1.jpg" loading="lazy" alt="" width="768" height="987">
+<img src="images/works2/kmagazin-3.jpg" loading="lazy" alt="" width="768" height="987">
+<img src="images/works2/kmagazin-7.jpg" loading="lazy" alt="" width="768" height="494">
 
 ## Amavita: Amavita Magazin
 
 Bei der Agentur 01 verfasste ich für die Kundin Amavita redaktionelle Beiträge für die Rubriken «Schön» und «Gesund».
 
-<img src="images/works2/amavita-1.jpg" loading="lazy" alt="" width="768">
-<img src="images/works2/amavita-2.jpg" loading="lazy" alt="" width="768">
+<img src="images/works2/amavita-1.jpg" loading="lazy" alt="" width="768" height="1055">
+<img src="images/works2/amavita-2.jpg" loading="lazy" alt="" width="768" height="1055">
 
 ## eev: Print-Magazin elitec und Online-Magazin e-tec
 
@@ -40,7 +40,7 @@ Links zu den Artikeln im Online-Magazin e-tec:
 - [Sorgfältig planen, erfolgreich umbauen](https://www.e-tec.swiss/de/basis-installation/sorgfaeltig-planen-erfolgreich-umbauen/){:target="_blank"}
 - [Grund zum Strahlen: die Photovoltaikanlage](https://www.e-tec.swiss/de/alternative-energien/grund-zum-strahlen-die-photovoltaikanlage/){:target="_blank"}
 
-<img src="images/works2/etec-1.jpg" loading="lazy" alt="" width="768">
+<img src="images/works2/etec-1.jpg" loading="lazy" alt="" width="768" height="1086">
 
 ## Maxomedia: Blogbeitrag
 
@@ -48,5 +48,5 @@ Ein Beitrag für den Maxomedia-Blog, den ich als Texpraktikantin schrieb. Es geh
 
 [Link zum Beitrag](https://maxomedia.ch/leben/mit-herz-und-seele-dabei){:target="_blank"}
 
-<img src="images/works2/blogbeitrag-3.jpg" loading="lazy" alt="" width="768">
-<img src="images/works2/blogbeitrag-4.jpg" loading="lazy" alt="" width="768">
+<img src="images/works2/blogbeitrag-3.jpg" loading="lazy" alt="" width="768" height="368">
+<img src="images/works2/blogbeitrag-4.jpg" loading="lazy" alt="" width="768" height="291">
