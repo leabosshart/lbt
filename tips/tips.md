@@ -11,4 +11,3 @@ Hier findet ihr Tipps und Tricks.
 {: .fs-6 .fw-300 }
 
 - [Produkttexte]({{ site.baseurl }}{% link tips/tips1.md %})
-- [Texten fürs Web]({{ site.baseurl }}{% link tips/tips2.md %})
