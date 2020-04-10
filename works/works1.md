@@ -4,7 +4,8 @@ parent: Arbeitsproben
 has_children: false
 nav_order: 1
 ---
-
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style> img { display: block;} </style>
 # Texte für Werbung
 
 Kinderbooklets, Postkarten, Webtexte, Flyer und klassische Anzeigen: geistige Beweglichkeit, eine schnelle Auffassungsgabe und Vielfältigkeit ist beim Werbetexten gefragt.
