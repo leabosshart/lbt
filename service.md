@@ -11,7 +11,7 @@ Mein Hauptfokus liegt auf dem Texten. Zudem erledige ich Übersetzungen von Engl
 
 ## Texte
 
-- Werbung: Headlines, Longcopy, Inserate, Flyer, Banner etc.
+- Werbung: Headlines, Longcopy, Claims etc.
 - Websites inklusive SEO
 - redaktionelle Beiträge
 - bestehende Texte redigieren
