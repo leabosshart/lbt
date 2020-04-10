@@ -12,7 +12,7 @@ Ob schnelle Autos, erneuerbare Energien oder Arbeitsplatztausch: Hier finden Sie
 
 ## Kestenholz: K-Magazin
 
-Für das Magazin des Kunden Kestenholz erstellte ich während meiner Tätigkeit bei der Yellow Werbeagentur redaktionelle Beiträge, meistens auf Basis von Interviews. Hochaktuell: Das Start-up Blue Inductive aus Freiburg erfand ein berührungsloses Schnellladegerät erfand, das die Zukunft der Elektromobilität prägen könnte.
+Für das Magazin des Kunden Kestenholz erstellte ich während meiner Tätigkeit bei der Yellow Werbeagentur redaktionelle Beiträge, meistens auf Basis von Interviews. Hochaktuell: Das Start-up Blue Inductive aus Freiburg erfand ein berührungsloses Schnellladegerät, das die Zukunft der Elektromobilität prägen könnte.
 
 <img src="images/works2/kmagazin-1.jpg" loading="lazy" alt="" width="768" height="987">
 <img src="images/works2/kmagazin-3.jpg" loading="lazy" alt="" width="768" height="987">

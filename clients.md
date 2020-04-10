@@ -12,7 +12,7 @@ nav_order: 5
 
 - Volkshochschule Schwarzenburg: Postkarten für Kurse an der VHS
 
-- Hischier Weine: Weihnachtskarte schreiben, Inserate überarbeiten, Newsletter korrigieren
+- Hischier Weine: Texte für hischierweine.ch, Weihnachtskarte, Inserate überarbeiten, Newsletter korrigieren, Corporate Language ausarbeiten
 
 - Aufträge in Kooperation mit der Textagentur wortgewandt:
 

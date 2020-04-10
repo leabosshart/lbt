@@ -7,7 +7,7 @@ nav_order: 1
 
 # Texte für Werbung
 
-Kinderbooklets, Postkarten, Webtexte, Flyer und klassische Anzeigen: geistige Beweglichkeit, eine schnelle Auffassungsgabe und Vielfältigkeit ist beim Werbetexten gefragt.
+Kinderbooklets, Postkarten, Webtexte, Flyer und klassische Anzeigen: geistige Beweglichkeit, eine schnelle Auffassungsgabe und Vielfältigkeit sind beim Werbetexten gefragt.
 {: .fs-6 .fw-300 }
 
 ## Spielzeug Welten Museum Basel: Kinderbooklets
