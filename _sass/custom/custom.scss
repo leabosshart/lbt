@@ -1,9 +1,16 @@
+// hide footer
 .site-footer {display: none;}
+
 //$sidebar-color: $white;
 //.side-bar a {color: #000000;}
 //$nav-child-link-color: #000000;
 //$link-color: #000000;
 //.page {text-align: center;}
+
+// links allow line breaks
+.page-content a {
+white-space: normal;
+}
 
 ////
 //// Typography
