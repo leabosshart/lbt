@@ -41,7 +41,6 @@ Ich habe mich schon immer gerne mit Worten befasst. Als Kind ohne Fernseher aufg
 
   - [Think Content!](https://www.rheinwerk-verlag.de/think-content_4127/){:target="_blank"} von Miriam Löffler
   - [Die SEO Masterclass: Lerne Suchmaschinenoptimierung von A-Z](https://www.udemy.com/course/die-seo-masterclass/){:target="_blank"} von Udemy
-  - <a class="link" href="https://www.w3schools.com" target="_blank">Die SEO Masterclass: Lerne Suchmaschinenoptimierung von A-Z</a> 
 <br><br>
 - Sept. 2018: LSA Bootcamp (Leading Swiss Agencies). Praktische und theoretische Weiterbildung im Bereich Strategie, Kreation, Medienrecht usw.
 
