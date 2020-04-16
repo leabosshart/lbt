@@ -36,13 +36,7 @@ Als Weihnachtsgeschenk für unsere Kunden liessen wir bei einer Berner Craft-Bie
 
 ## Spoon: Suppen-Leporello
 
-In ansprechendem, silbrigem Siebdruck, eigenwillig gestaltet und kräftig getextet: Zusammen mit der Grafikerin Christine Kaufmann [NEKA](https://neka.ch/){:target="_blank"},
-
-dem Illustrator [Stephan Liechti](http://s-liechti.ch/){:target="_blank"} 
-
-und dem Siebdrucker [Hanspeter Arni](http://arnisiebdruck.ch/){:target="_blank"} 
-
-entstand dieses kleine und feine Leporello. Es vereint die leckersten Suppenrezepte von Caroline Kolb und Nicole Schmutz, Inhaberinnen des Restaurants Spoon in Basel.
+In ansprechendem, silbrigem Siebdruck, eigenwillig gestaltet und kräftig getextet: Zusammen mit der Grafikerin Christine Kaufmann [NEKA](https://neka.ch/){:target="_blank"}, dem Illustrator [Stephan Liechti](http://s-liechti.ch/){:target="_blank"} und dem Siebdrucker [Hanspeter Arni](http://arnisiebdruck.ch/){:target="_blank"} entstand dieses kleine und feine Leporello. Es vereint die leckersten Suppenrezepte von Caroline Kolb und Nicole Schmutz, Inhaberinnen des Restaurants Spoon in Basel.
 
 <img src="images/works4/spoon-1.jpg" loading="lazy" alt="" width="768" height="768">
 <img src="images/works4/spoon-2.jpg" loading="lazy" alt="" width="768" height="768">
