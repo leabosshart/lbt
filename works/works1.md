@@ -14,6 +14,8 @@ Kinderbooklets, Postkarten, Webtexte, Flyer und klassische Anzeigen: geistige Be
 
 Die Textagentur wortgewandt hat mich fürs Texten der Website sens-city für die eRecycling-Stiftung SENS beauftragt.
 
+<img src="images/works1/sens-city-1.jpg" loading="lazy" alt="" width="768" height="413">
+<img src="images/works1/sens-city-2.jpg" loading="lazy" alt="" width="768" height="399">
 
 ## Spielzeug Welten Museum Basel: Kinderbooklets
 
