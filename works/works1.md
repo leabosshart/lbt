@@ -10,19 +10,20 @@ nav_order: 1
 Kinderbooklets, Postkarten, Webtexte, Flyer und klassische Anzeigen: geistige Beweglichkeit, eine schnelle Auffassungsgabe und Vielfältigkeit sind beim Werbetexten gefragt.
 {: .fs-6 .fw-300 }
 
-## SENS: Kampagne SENS City, Webtexte
-
-Die Textagentur wortgewandt hat mich fürs Texten der Website [sens-city](https://www.sens-city.ch){:target="_blank"} für die eRecycling-Stiftung SENS beauftragt.
-
-<img src="images/works1/sens-city-1.jpg" loading="lazy" alt="" width="768" height="413">
-<img src="images/works1/sens-city-2.jpg" loading="lazy" alt="" width="768" height="399">
-
 ## Spielzeug Welten Museum Basel: Kinderbooklets
 
 Diese Kinderbooklets für die Sonderausstellungen «Mut zum Hut» und «Taschen — Ikonen und Wertanlagen» des Kunden Spielzeug Welten Museum Basel schrieb ich während meiner Anstellung als Texterin bei der Yellow Werbeagentur.
 
 <img src="images/works1/swmb-hut-3.jpg" loading="lazy" alt="" width="768" height="545">
 <img src="images/works1/swmb-taschen-3.jpg" loading="lazy" alt="" width="768" height="545">
+
+## SENS: Kampagne SENS City, Webtexte
+
+Die Textagentur wortgewandt hat mich fürs Texten der Website [sens-city](https://www.sens-city.ch){:target="_blank"} für die eRecycling-Stiftung SENS beauftragt.
+
+<img src="images/works1/sens-city-1.jpg" loading="lazy" alt="" width="768" height="432">
+<img src="images/works1/sens-city-2.jpg" loading="lazy" alt="" width="768" height="432">
+<img src="images/works1/sens-city-3.jpg" loading="lazy" alt="" width="768" height="432">
 
 ## VHS Schwarzenburg: Postkarten
 
