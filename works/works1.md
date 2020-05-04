@@ -10,6 +10,11 @@ nav_order: 1
 Kinderbooklets, Postkarten, Webtexte, Flyer und klassische Anzeigen: geistige Beweglichkeit, eine schnelle Auffassungsgabe und Vielfältigkeit sind beim Werbetexten gefragt.
 {: .fs-6 .fw-300 }
 
+## SENS: Kampagne SENS City, Webtexte
+
+Die Textagentur wortgewandt hat mich fürs Texten der Website sens-city für die eRecycling-Stiftung SENS beauftragt.
+
+
 ## Spielzeug Welten Museum Basel: Kinderbooklets
 
 Diese Kinderbooklets für die Sonderausstellungen «Mut zum Hut» und «Taschen — Ikonen und Wertanlagen» des Kunden Spielzeug Welten Museum Basel schrieb ich während meiner Anstellung als Texterin bei der Yellow Werbeagentur.
