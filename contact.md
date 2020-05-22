@@ -47,7 +47,7 @@ Alexander Bürgin: [wedot.ch](https://www.wedot.ch){:target="_blank"}
 
 ## Webdesign
 
-Olivia Brenzikofer: http://www.webilicious.ch/ (https://www.webilicious.ch) {:target="_blank"}
+Olivia Brenzikofer: [webilicious.ch](https://www.webilicious.ch){:target="_blank"}
 
 ## Korrektorat, Lektorat
 
