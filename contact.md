@@ -39,13 +39,15 @@ Janice Sidler: [janicesidler.ch](https://www.janicesidler.ch){:target="_blank"}
 
 Verena Huber: [contentthatinspires.works](https://www.contentthatinspires.works){:target="_blank"}
 
-## Kommunikation, Konzepte
+## Kommunikation & Marketing
 
 Revolved GmbH: [revolved.ch](https://www.revolved.ch){:target="_blank"}
 
-## Design- und Digitalagentur
-
 Alexander Bürgin: [wedot.ch](https://www.wedot.ch){:target="_blank"}
+
+## Webdesign
+
+Olivia Brenzikofer: http://www.webilicious.ch/ (https://www.webilicious.ch) {:target="_blank"}
 
 ## Korrektorat, Lektorat
 
