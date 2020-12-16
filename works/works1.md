@@ -12,7 +12,7 @@ Kinderbooklets, Postkarten, Webtexte, Flyer und klassische Anzeigen: geistige Be
 
 ## SENS: Kampagne SENS City, Webtexte
 
-Die Textagentur wortgewandt hat mich fürs Texten der Website [sens-city](https://www.sens-city.ch){:target="_blank"} für die eRecycling-Stiftung SENS beauftragt.
+Die Textagentur wortgewandt hat mich mit dem Texten der Website [sens-city](https://www.sens-city.ch){:target="_blank"} für die eRecycling-Stiftung SENS beauftragt.
 
 <img src="images/works1/sens-city-4.jpg" loading="lazy" alt="" width="768" height="462">
 <img src="images/works1/sens-city-5.jpg" loading="lazy" alt="" width="768" height="462">
