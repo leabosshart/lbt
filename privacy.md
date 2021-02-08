@@ -6,7 +6,7 @@ nav_order: 8
 
 # Datenschutz
 
-Oder «Etwas Spass muss leider nicht sein».
+Oder «Etwas Spass muss leider nicht sein»
 {: .fs-6 .fw-300 }
 
 ## Allgemein
