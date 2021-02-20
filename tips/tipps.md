@@ -13,3 +13,4 @@ Hier dreht sich alles um Sprache: Zweifel sollen ausgeräumt und Tipps fürs Sch
 {: .fs-6 .fw-300 }
 
 - [Produkttexte]({{ site.baseurl }}{% link tips/tips1.md %})
+- [Gute Texte sind kein Zufall]({{ site.baseurl }}{% link tips/tips1.md %})
