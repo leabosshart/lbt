@@ -1,5 +1,5 @@
 ---
-title: In gute Texte investieren 
+title: Gute Texte sind kein Zufall
 parent: Tipps und Tricks
 has_children: false
 nav_order: 1
