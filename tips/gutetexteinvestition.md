@@ -32,8 +32,6 @@ Zur Verständlichkeit gehört für mich auch, dass der Text fehlerfrei ist. Alle
 
 Ein guter Text inspiriert, regt zum Nachdenken an, beflügelt und/oder bringt die Leserschaft zum Schmunzeln. Er verwendet sprachliche Bilder, die im Kopf des Lesers korrekt übersetzt werden. Er ist gut strukturiert, besticht durch eine abwechslungsreiche Wortwahl und lässt Floskeln weg. Anregend kann zudem heissen, die Leserin direkt anzusprechen – je nach Kontext mit Sie oder Du. 
 
-
 Zusammengefasst: Ein guter Text ist präzise, logisch, verständlich und anregend. Aus all diesen Punkten folgere ich, dass er angenehm zu lesen ist, was meiner Meinung nach eines der Ziele beim Schreiben ist. 
 
-
-PS: Fragt ihr euch jetzt noch, ob ihr in gute Texte investieren sollt? ;)
+PS: Fragt ihr euch jetzt noch, ob ihr in gute Texte investieren sollt? ;).
