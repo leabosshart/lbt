@@ -34,4 +34,5 @@ Ein guter Text inspiriert, regt zum Nachdenken an, beflügelt und/oder bringt di
 
 
 Zusammengefasst: Ein guter Text ist präzise, logisch, verständlich und anregend. Aus all diesen Punkten folgere ich, dass er angenehm zu lesen ist, was meiner Meinung nach eines der Ziele beim Schreiben ist. 
+
 PS: Fragt ihr euch jetzt noch, ob ihr in gute Texte investieren sollt? ;)
