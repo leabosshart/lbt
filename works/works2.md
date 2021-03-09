@@ -10,6 +10,11 @@ nav_order: 2
 Ob schnelle Autos, erneuerbare Energien oder Arbeitsplatztausch: Hier finden Sie ein paar Einblicke in meine redaktionellen Texte mit Tiefgang.
 {: .fs-6 .fw-300 }
 
+## Hischier Weine: Blogartikel
+
+Hischier Weine ist ein Weinhändler aus dem Wallis mit 30-jähriger Expertise. Um Weinkenner/-innen mit inspirierendem Content zu beliefern, schrieb ich einige Blogartikel rund um das Thema Wein.
+
+
 ## Kestenholz: K-Magazin
 
 Für das Magazin des Kunden Kestenholz erstellte ich während meiner Tätigkeit bei der Yellow Werbeagentur redaktionelle Beiträge, meistens auf Basis von Interviews. Hochaktuell: Das Start-up Blue Inductive aus Freiburg erfand ein berührungsloses Schnellladegerät, das die Zukunft der Elektromobilität prägen könnte.
