@@ -14,6 +14,8 @@ Ob schnelle Autos, erneuerbare Energien oder Arbeitsplatztausch: Hier finden Sie
 
 Hischier Weine ist ein Weinhändler aus dem Wallis mit 30-jähriger Expertise. Um Weinkenner/-innen mit inspirierendem Content zu beliefern, schrieb ich einige Blogartikel rund um das Thema Wein.
 
+<img src="images/works2/hischierblog-grill-1.jpg" loading="lazy" alt="" width="768" height="476">
+<img src="images/works2/hischierblog-spargel-2.jpg" loading="lazy" alt="" width="768" height="437">
 
 ## Kestenholz: K-Magazin
 
