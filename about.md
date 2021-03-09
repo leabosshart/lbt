@@ -37,8 +37,9 @@ Ich habe mich schon immer gerne mit Worten befasst. Als Kind ohne Fernseher aufg
 
 ## Weiterbildungen und Interessen
 
-- Feb. 2020: selbständige Weiterbildung in Content-Marketing, Texten fürs Web, SEO
+- seit Feb. 2020: selbständige Weiterbildung in Content-Marketing, Texten fürs Web, SEO
 
+  - [UX Writing Fundamentals] Kurs in 7 Modulen für ein Zertifikat in UX Writing. Anbieter: UX Writers Collective
   - [Think Content!](https://www.rheinwerk-verlag.de/think-content_4127/){:target="_blank"} von Miriam Löffler
   - [Die SEO Masterclass: Lerne Suchmaschinenoptimierung von A-Z](https://www.udemy.com/course/die-seo-masterclass/){:target="_blank"} von Udemy
 <br><br>
