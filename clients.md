@@ -8,7 +8,7 @@ nav_order: 5
 
 ## Texte
 
-- **bonacasa AG**: neues Konzept & Texte für ein Leporello, das die Wohnservices von bonainvest (Tochterfirma) bewirbt. Diverse Textarbeiten: Kundenbriefe, Broschüren, Inserate.
+- **bonacasa AG**: neues Konzept & Texte für ein Leporello, das die Wohnservices von bonainvest (Tochterfirma) bewirbt. Diverse Textarbeiten: Kundenbriefe, Broschüren, Inserate
 
 - **Hischier Weine**: diverse Texte für hischierweine.ch, Blogartikel, Weihnachtskarte, Inserate, Newsletter korrigieren, Leitfaden Corporate Language
 
