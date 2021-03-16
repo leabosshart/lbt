@@ -12,6 +12,6 @@ Liebe Mittexterinnen und -texter
 Hier dreht sich alles um Sprache: Zweifel sollen ausgeräumt und Tipps fürs Schreiben gegeben werden. Ich wünsche euch viel Spass beim Schreiben, der schönsten Beschäftigung der Welt.
 {: .fs-6 .fw-300 }
 
-- [In gute Texte investieren]({{ site.baseurl }}{% link tips/gutetexte.md %})
+- [In Texte investieren]({{ site.baseurl }}{% link tips/gutetexte.md %})
 - [Produkttexte]({{ site.baseurl }}{% link tips/produkttexte.md %})
 
