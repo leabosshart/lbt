@@ -14,8 +14,9 @@ Ob schnelle Autos, erneuerbare Energien oder Arbeitsplatztausch: Hier finden Sie
 
 Hischier Weine ist ein Weinhändler aus dem Wallis mit 30-jähriger Expertise. Um Weinkenner/-innen mit inspirierendem Content zu beliefern, schrieb ich einige Blogartikel rund um das Thema Wein.
 
-<img src="images/works2/hischierblog-grill-1.jpg" loading="lazy" alt="" width="768" height="468">
-<img src="images/works2/hischierblog-spargel-2.jpg" loading="lazy" alt="" width="768" height="437">
+<img src="images/works2/hischierblog1.jpg" loading="lazy" alt="" width="768" height="643">
+<img src="images/works2/hischierblog2.jpg" loading="lazy" alt="" width="768" height="643">
+<img src="images/works2/hischierblog3.jpg" loading="lazy" alt="" width="768" height="643">
 
 - [Link zum Beitrag Grillweine](https://www.hischierweine.ch/blog/gut-gegrillt-und-fein-getrunken){:target="_blank"}
 - [Link zum Beitrag Spargelweine](https://www.hischierweine.ch/blog/spargel-und-wein-ein-fruehlingsmaerchen){:target="_blank"}
