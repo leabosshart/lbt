@@ -20,7 +20,7 @@ Klingelbergstrasse 85<br/>
 
 [LinkedIn](https://www.linkedin.com/in/lea-bosshart-454a6842/){:target="_blank"}
 
-[Mein Unternehmen auf Google Maps](https://goo.gl/maps/UxCRY3WbLqCChL666){:target="_blank"} x
+[Mein Unternehmen auf Google Maps](https://goo.gl/maps/UxCRY3WbLqCChL666){:target="_blank"}
 
 
 Text allein reicht nicht aus? Leuchtet ein! Mein Netz besteht aus kompetenten – und befreundeten – Fachleuten, auf die ich für die Zusammenarbeit an Aufträgen gerne zurückgreife.
