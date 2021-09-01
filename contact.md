@@ -19,6 +19,7 @@ Klingelbergstrasse 85<br/>
 4056 Basel
 
 [LinkedIn](https://www.linkedin.com/in/lea-bosshart-454a6842/){:target="_blank"}
+
 [Mein Unternehmen auf Google Maps](https://goo.gl/maps/UxCRY3WbLqCChL666){:target="_blank"}
 
 
