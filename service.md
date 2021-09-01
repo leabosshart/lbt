@@ -13,7 +13,9 @@ Mein Hauptfokus liegt auf dem Texten. Zudem erledige ich Übersetzungen von Engl
 
 - Werbung: Headlines, Longcopy, Claims etc.
 - Websites inklusive SEO
+- Lokalisierung von Websites für den Schweizer Markt
 - redaktionelle Beiträge
+- Blogbeiträge
 - bestehende Texte redigieren
 
 ## Übersetzungen
