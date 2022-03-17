@@ -26,7 +26,7 @@ Silvia Rohrbach, freischaffende Grafikerin</em>
   - Egeler Lutz, Baufirma (Text für Website)
   - SENS, Elektrorecyling (Kampagnen-Texte für Website, Publireportage, Medienmitteilung)
   - Ledermann Management (Verkaufsbroschüre Immobilien Haus Höngg)
-
+  
 
 - Zusammenarbeit mit Rolando Baron von **wirtexten.ch**:
    - Redigieren der Website-Texte von Disch AG und JOGA MED AG (Lebensmittelindustrie)
