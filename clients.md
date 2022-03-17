@@ -8,7 +8,7 @@ nav_order: 5
 
 ## Texte
 
-- **Bischofberger AG, Lebensmittelhandel und Distribution**: Texte für die Lebensmittel-Marken Polaris, Silberwald und Silverstar
+- **Bischofberger AG, Lebensmittelhandel und Distribution**: Texte für die Lebensmittel-Marken Polaris, Silberwald und Silver Star
 
 - **bonacasa AG, Smart Living**: neues Konzept & Texte für ein Leporello, das die Wohnservices von bonainvest (Tochterfirma) bewirbt. Diverse Textarbeiten: Kundenbriefe, Broschüren, Inserate
 
@@ -27,8 +27,8 @@ Silvia Rohrbach, freischaffende Grafikerin
   - SENS, Elektrorecyling (Kampagnen-Texte für Website, Publireportage, Medienmitteilung)
   - Ledermann Management (Verkaufsbroschüre Immobilien Haus Höngg)
 
-- Zusammenarbeit mit Rolando Baron von **wirtexten.ch**:
 
+- Zusammenarbeit mit Rolando Baron von **wirtexten.ch**:
 - Texte der Websites Disch AG und JOGA MED AG (Lebensmittelindustrie) redigiert
 
 ## Übersetzungen
