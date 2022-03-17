@@ -33,6 +33,7 @@ Silvia Rohrbach, freischaffende Grafikerin*
   - Redigieren der Website-Texte von Disch AG und JOGA MED AG (Lebensmittelindustrie)
 
 
+
 ## Übersetzungen
 
 - **Helvetiq Verlag**:
