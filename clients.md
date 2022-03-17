@@ -41,4 +41,4 @@ Silvia Rohrbach, freischaffende Grafikerin</em>
   - Welche Grösse hat dein Herz? Originaltitel: De quelle taille est ton coeur? FR – DE (Kinderbuch)
   - Haute Fondue, FR – DE (Kochbuch)
   - Gut getippt! Originaltitel: Dans le mille! FR – DE (Spiel)
-  - Brot Huusgmacht, Originaltitel: Swiss Bread. EN – DE (Kochbuch)
+  - Brot Huusgmacht. Originaltitel: Swiss Bread, EN – DE (Kochbuch)
