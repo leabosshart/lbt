@@ -29,7 +29,6 @@ Silvia Rohrbach, freischaffende Grafikerin
 
 
 
-
 ## Übersetzungen
 
 - **Helvetiq Verlag**:
