@@ -8,9 +8,11 @@ nav_order: 5
 
 ## Texte
 
-- **bonacasa AG**: neues Konzept & Texte für ein Leporello, das die Wohnservices von bonainvest (Tochterfirma) bewirbt. Diverse Textarbeiten: Kundenbriefe, Broschüren, Inserate
+- **Bischofberger AG, Lebensmittelhandel und Distribution**: Texte für die Lebensmittel-Marken Polaris, Silberwald und Silverstar
 
-- **Hischier Weine**: diverse Texte für hischierweine.ch, Blogartikel, Weihnachtskarte, Inserate, Newsletter korrigieren, Leitfaden Corporate Language
+- **bonacasa AG, Smart Living**: neues Konzept & Texte für ein Leporello, das die Wohnservices von bonainvest (Tochterfirma) bewirbt. Diverse Textarbeiten: Kundenbriefe, Broschüren, Inserate
+
+- **Hischier Weine, Weinhändler**: diverse Texte für hischierweine.ch, Blogartikel, Weihnachtskarte, Inserate, Newsletter korrigieren, Leitfaden Corporate Language
 
 - **Manor**: Produkttexte für den Onlineshop manor.ch
 
@@ -25,6 +27,10 @@ Silvia Rohrbach, freischaffende Grafikerin
   - SENS, Elektrorecyling (Kampagnen-Texte für Website, Publireportage, Medienmitteilung)
   - Ledermann Management (Verkaufsbroschüre Immobilien Haus Höngg)
 
+- Zusammenarbeit mit Rolando Baron von **wirtexten.ch**:
+
+- Texte der Websites Disch AG und JOGA MED AG (Lebensmittelindustrie) redigiert
+
 ## Übersetzungen
 
 - **Helvetiq Verlag**:
@@ -33,3 +39,4 @@ Silvia Rohrbach, freischaffende Grafikerin
   - Welche Grösse hat dein Herz? Originaltitel: De quelle taille est ton coeur? FR – DE (Kinderbuch)
   - Haute Fondue, FR – DE (Kochbuch)
   - Gut getippt! Originaltitel: Dans le mille! FR – DE (Spiel)
+  - Brot Huusgmacht, Originaltitel: Swiss Bread. EN – DE (Kochbuch)
