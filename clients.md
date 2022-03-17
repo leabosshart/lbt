@@ -27,9 +27,7 @@ Silvia Rohrbach, freischaffende Grafikerin
   - SENS, Elektrorecyling (Kampagnen-Texte für Website, Publireportage, Medienmitteilung)
   - Ledermann Management (Verkaufsbroschüre Immobilien Haus Höngg)
 
-- Zusammenarbeit mit Rolando Baron von **Wir Texten**:
 
-  - Redigieren der Website-Texte von Disch AG und JOGA MED AG (Lebensmittelindustrie)
 
 
 ## Übersetzungen
