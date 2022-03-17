@@ -29,7 +29,7 @@ Silvia Rohrbach, freischaffende Grafikerin
 
 
 - Zusammenarbeit mit Rolando Baron von **wirtexten.ch**:
-- Texte der Websites Disch AG und JOGA MED AG (Lebensmittelindustrie) redigiert
+   - Texte der Websites Disch AG und JOGA MED AG (Lebensmittelindustrie) redigiert
 
 ## Übersetzungen
 
