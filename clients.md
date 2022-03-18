@@ -25,6 +25,9 @@ Silvia Rohrbach, freischaffende Grafikerin
     - Redigieren der Website-Texte von Disch AG und JOGA MED AG (Lebensmittelindustrie)
 
 
+
+
+
 - Aufträge in Kooperation mit der **Textagentur wortgewandt**:
 
   - Egeler Lutz, Baufirma (Text für Website)
