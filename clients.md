@@ -21,16 +21,14 @@ nav_order: 5
 «Für die Auftraggeberin Volkshochschule Schwarzenburg suchte ich eine Texterin für Postkarten, mit denen die Volkshochschule ihr Kursangebot anpreisen wollte. Lea Bosshart hat diese Aufgabe mit ihren originellen, witzigen Sprüchen mehr als erfüllt. Die Zusammenarbeit mit ihr war angenehm und locker – und die Kundin mit der Qualität überaus zufrieden. Gerne wieder.»
 Silvia Rohrbach, freischaffende Grafikerin
 
+- Zusammenarbeit mit Rolando Baron von **Wir Texten**:
+    - Redigieren der Website-Texte von Disch AG und JOGA MED AG (Lebensmittelindustrie)
+
 - Aufträge in Kooperation mit der **Textagentur wortgewandt**:
 
   - Egeler Lutz, Baufirma (Text für Website)
   - SENS, Elektrorecyling (Kampagnen-Texte für Website, Publireportage, Medienmitteilung)
   - Ledermann Management (Verkaufsbroschüre Immobilien Haus Höngg)
-
-
-- Zusammenarbeit mit Rolando Baron von **Wir Texten**:
-
-  - Redigieren der Website-Texte von Disch AG und JOGA MED AG (Lebensmittelindustrie)
 
 
 ## Übersetzungen
