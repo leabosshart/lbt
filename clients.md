@@ -23,7 +23,7 @@ Silvia Rohrbach, freischaffende Grafikerin
 
 - Zusammenarbeit mit Rolando Baron von **Wir Texten**:
     - Redigieren der Website-Texte von Disch AG und JOGA MED AG (Lebensmittelindustrie)
-
+-
 - Aufträge in Kooperation mit der **Textagentur wortgewandt**:
 
   - Egeler Lutz, Baufirma (Text für Website)
