@@ -27,8 +27,8 @@ nav_order: 5
 <br><br>
 - **Volkshochschule Schwarzenburg**: Postkarten für Kurse an der VHS
 
-<i>«Für die Auftraggeberin Volkshochschule Schwarzenburg suchte ich eine Texterin für Postkarten, mit denen die Volkshochschule ihr Kursangebot anpreisen wollte. Lea Bosshart hat diese Aufgabe mit ihren originellen, witzigen Sprüchen mehr als erfüllt. Die Zusammenarbeit mit ihr war angenehm und locker – und die Kundin mit der Qualität überaus zufrieden. Gerne wieder.»
-Silvia Rohrbach, freischaffende Grafikerin</i>
+<i>Für die Auftraggeberin Volkshochschule Schwarzenburg suchte ich eine Texterin für Postkarten, mit denen die Volkshochschule ihr Kursangebot anpreisen wollte. Lea Bosshart hat diese Aufgabe mit ihren originellen, witzigen Sprüchen mehr als erfüllt. Die Zusammenarbeit mit ihr war angenehm und locker – und die Kundin mit der Qualität überaus zufrieden. Gerne wieder.</i>
+Silvia Rohrbach, freischaffende Grafikerin
 
 ## Übersetzungen
 
