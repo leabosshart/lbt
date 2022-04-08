@@ -21,10 +21,10 @@ nav_order: 5
   - Egeler Lutz, Baufirma (Text für Website)
   - SENS, Elektrorecyling (Kampagnen-Texte für Website, Publireportage, Medienmitteilung)
   - Ledermann Management (Verkaufsbroschüre Immobilien Haus Höngg)
-<br><br>
+
 - Zusammenarbeit mit Rolando Baron von **Wir Texten**:
     - Redigieren der Website-Texte von Disch AG und JOGA MED AG (Lebensmittelindustrie)
-<br><br>
+
 - **Volkshochschule Schwarzenburg**: Postkarten für Kurse an der VHS
 
 «Für die Auftraggeberin Volkshochschule Schwarzenburg suchte ich eine Texterin für Postkarten, mit denen die Volkshochschule ihr Kursangebot anpreisen wollte. Lea Bosshart hat diese Aufgabe mit ihren originellen, witzigen Sprüchen mehr als erfüllt. Die Zusammenarbeit mit ihr war angenehm und locker – und die Kundin mit der Qualität überaus zufrieden. Gerne wieder.»
@@ -32,11 +32,11 @@ nav_order: 5
 Silvia Rohrbach, freischaffende Grafikerin
 
 ## Lektorate und Korrektorate
- - vom Korrekturstorch vermittelte Aufträge: Korrektorat & Lektorat von Studierenden-Arbeiten
+ - vom **Korrekturstorch** vermittelte Aufträge: Korrektorat & Lektorat von Studierenden-Arbeiten
 
 «Lea hat meine Masterarbeit korrigiert, lektoriert und hat mir im Anschluss die Arbeit in korrigierter Form – wie auch in einer Fassung mit den ersichtlichen Korrekturen – retourniert, was meinen zeitlichen Aufwand noch einmal erheblich reduziert hat. Die Bewertung der Sprache mit 5.9 spricht für sich! Sollte ich wieder einmal eine wissenschaftliche Arbeit schreiben, werde ich definitiv wieder auf diesen exzellenten Service zurückgreifen.»
 
-Patrik Frischknecht, hat eine Masterarbeit an der HWZ Hochschule für Wirtschaft Zürich zum Thema <i>Robotic Process Automation im Controlling von Banken<i/> verfasst
+Patrik Frischknecht, hat eine Masterarbeit an der HWZ Hochschule für Wirtschaft Zürich zum Thema *Robotic Process Automation im Controlling von Banken* verfasst.
 
 ## Übersetzungen
 
