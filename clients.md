@@ -30,6 +30,12 @@ nav_order: 5
 <i>Für die Auftraggeberin Volkshochschule Schwarzenburg suchte ich eine Texterin für Postkarten, mit denen die Volkshochschule ihr Kursangebot anpreisen wollte. Lea Bosshart hat diese Aufgabe mit ihren originellen, witzigen Sprüchen mehr als erfüllt. Die Zusammenarbeit mit ihr war angenehm und locker – und die Kundin mit der Qualität überaus zufrieden. Gerne wieder.</i>
 Silvia Rohrbach, freischaffende Grafikerin
 
+## Lektorate und Korrektorate
+ - vom Korrekturstorch vermittelte Aufträge: Korrektorat & Lektorat von Studierenden-Arbeiten
+
+<i>Lea hat meine Masterarbeit korrigiert, lektoriert und hat mir im Anschluss die Arbeit in korrigierter Form – wie auch in einer Fassung mit den ersichtlichen Korrekturen – retourniert, was meinen zeitlichen Aufwand noch einmal erheblich reduziert hat. Die Bewertung der Sprache mit 5.9 spricht für sich! Sollte ich wieder einmal eine wissenschaftliche Arbeit schreiben, werde ich definitiv wieder auf diesen exzellenten Service zurückgreifen.</i>
+Patrik Frischknecht, hat eine Masterarbeit an der HWZ Hochschule für Wirtschaft Zürich zum Thema «Robotic Process Automation im Controlling von Banken» verfasst
+
 ## Übersetzungen
 
 - **Helvetiq Verlag**:
