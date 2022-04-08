@@ -36,7 +36,7 @@ Silvia Rohrbach, freischaffende Grafikerin
 
 «Lea hat meine Masterarbeit korrigiert, lektoriert und hat mir im Anschluss die Arbeit in korrigierter Form – wie auch in einer Fassung mit den ersichtlichen Korrekturen – retourniert, was meinen zeitlichen Aufwand noch einmal erheblich reduziert hat. Die Bewertung der Sprache mit 5.9 spricht für sich! Sollte ich wieder einmal eine wissenschaftliche Arbeit schreiben, werde ich definitiv wieder auf diesen exzellenten Service zurückgreifen.»
 
-Patrik Frischknecht, hat eine Masterarbeit an der HWZ Hochschule für Wirtschaft Zürich zum Thema *Robotic Process Automation im Controlling von Banken* verfasst.
+Patrik Frischknecht hat eine Masterarbeit an der HWZ Hochschule für Wirtschaft Zürich zum Thema *Robotic Process Automation im Controlling von Banken* verfasst.
 
 ## Übersetzungen
 
