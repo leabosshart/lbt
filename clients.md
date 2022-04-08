@@ -21,10 +21,10 @@ nav_order: 5
   - Egeler Lutz, Baufirma (Text für Website)
   - SENS, Elektrorecyling (Kampagnen-Texte für Website, Publireportage, Medienmitteilung)
   - Ledermann Management (Verkaufsbroschüre Immobilien Haus Höngg)
-
+<br><br/>
 - Zusammenarbeit mit Rolando Baron von **Wir Texten**:
     - Redigieren der Website-Texte von Disch AG und JOGA MED AG (Lebensmittelindustrie)
-
+<br><br/>
 - **Volkshochschule Schwarzenburg**: Postkarten für Kurse an der VHS
 
 «Für die Auftraggeberin Volkshochschule Schwarzenburg suchte ich eine Texterin für Postkarten, mit denen die Volkshochschule ihr Kursangebot anpreisen wollte. Lea Bosshart hat diese Aufgabe mit ihren originellen, witzigen Sprüchen mehr als erfüllt. Die Zusammenarbeit mit ihr war angenehm und locker – und die Kundin mit der Qualität überaus zufrieden. Gerne wieder.»
