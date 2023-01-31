@@ -47,12 +47,12 @@ Patrik Frischknecht hat eine Masterarbeit an der HWZ Hochschule für Wirtschaft 
 
 - **Helvetiq Verlag**:
 
-  - Zuckersüsse Schweiz, Originaltitel: Swiss+Sweet, EN-DE (Kochbuch) [zum Buch](https://helvetiq.com/ch_de/zuckersuesse-schweiz-de){:target="_blank"}
-  - Brot Huusgmacht. Originaltitel: Swiss Bread, EN-DE (Kochbuch) [zum Buch](https://helvetiq.com/ch_de/brot-huusgmacht-de){:target="_blank"}
-  - Haute Fondue, FR-DE (Kochbuch) [zum Buch](https://helvetiq.com/ch_de/haute-fondue-de){:target="_blank"}
-  - Klang, Originaltitel: Prrrrriiit. El libro de los sonidos, ES-DE (Kinderbuch) [zum Buch](https://helvetiq.com/ch_de/klang){:target="_blank"}
-  - Heidi und die Zombie-Attacke, Originaltitel: Heidi and the Half-Dead, EN-DE (Kinderbuch) [zum Buch](https://helvetiq.com/ch_de/heidi-und-die-zombie-attacke){:target="_blank"}
-  - Stína, EN-DE (Kinderbuch)
-  - Welche Grösse hat dein Herz? Originaltitel: De quelle taille est ton coeur? FR-DE (Kinderbuch)
-  - Gut getippt! Originaltitel: Dans le mille! FR-DE (Spiel)
+  - **Zuckersüsse Schweiz**. Originaltitel: Swiss+Sweet, EN-DE (Kochbuch) [zum Buch](https://helvetiq.com/ch_de/zuckersuesse-schweiz-de){:target="_blank"}
+  - **Brot Huusgmacht**. Originaltitel: Swiss Bread, EN-DE (Kochbuch) [zum Buch](https://helvetiq.com/ch_de/brot-huusgmacht-de){:target="_blank"}
+  - **Haute Fondue**. FR-DE (Kochbuch) [zum Buch](https://helvetiq.com/ch_de/haute-fondue-de){:target="_blank"}
+  - **Klang**. Originaltitel: Prrrrriiit. El libro de los sonidos, ES-DE (Kinderbuch) [zum Buch](https://helvetiq.com/ch_de/klang){:target="_blank"}
+  - **Heidi und die Zombie-Attacke**. Originaltitel: Heidi and the Half-Dead, EN-DE (Kinderbuch) [zum Buch](https://helvetiq.com/ch_de/heidi-und-die-zombie-attacke){:target="_blank"}
+  - **Stína**. EN-DE (Kinderbuch)
+  - **Welche Grösse hat dein Herz?** Originaltitel: De quelle taille est ton coeur? FR-DE (Kinderbuch)
+  - **Gut getippt!** Originaltitel: Dans le mille! FR-DE (Spiel)
  
