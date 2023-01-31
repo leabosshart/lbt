@@ -25,9 +25,11 @@ nav_order: 5
   - Egeler Lutz, Baufirma (Text für Website)
   - SENS, Elektrorecyling (Kampagnen-Texte für Website, Publireportage, Medienmitteilung)
   - Ledermann Management (Verkaufsbroschüre Immobilien Haus Höngg)
+<br><br/>
 
 - Zusammenarbeit mit Rolando Baron von **Wir Texten**:
     - Website-Texte von Disch AG und JOGA MED AG (Lebensmittelindustrie) redigieren
+<br><br/>
 
 - **Volkshochschule Schwarzenburg**: Postkarten für Kurse an der VHS
 
