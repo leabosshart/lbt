@@ -21,6 +21,7 @@ Mein Hauptfokus liegt auf dem Texten. Zudem erledige ich Übersetzungen von Engl
 ## Übersetzungen
 
 - von Englisch, Spanisch und Französisch auf Deutsch
+- CAT-Tool: Trados Studio 2021
 
 ## Korrektorat & Lektorat
 
