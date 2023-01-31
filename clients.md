@@ -12,8 +12,6 @@ nav_order: 5
 
 - **Addministra GmbH, Generalplanung & Baumanagement, Schadenmanagement & -expertise, Bauherrenvertretung & -beratung, Immobilienmanagement**: Überarbeitung der Website-Texte inkl. Übersetzung auf Englisch
 
-- **OFFCUT Basel, Materialmarkt**: Lektorat Jahresbericht
-
 - **Bischofberger AG, Lebensmittelhandel und Distribution**: Texte für die Lebensmittel-Marken Polaris, Silberwald und Silver Star
 
 - **bonacasa AG, Smart Living**: neues Konzept & Texte für ein Leporello, das die Wohnservices von bonainvest (Tochterfirma) bewirbt. Diverse Textarbeiten: Kundenbriefe, Broschüren, Inserate
@@ -38,6 +36,7 @@ nav_order: 5
 Silvia Rohrbach, freischaffende Grafikerin
 
 ## Lektorate und Korrektorate
+ - **OFFCUT Basel, Materialmarkt**: Lektorat Jahresbericht
  - vom **Korrekturstorch** vermittelte Aufträge: Korrektorat & Lektorat von Studierenden-Arbeiten
 
 «Lea hat meine Masterarbeit korrigiert, lektoriert und hat mir im Anschluss die Arbeit in korrigierter Form – wie auch in einer Fassung mit den ersichtlichen Korrekturen – retourniert, was meinen zeitlichen Aufwand noch einmal erheblich reduziert hat. Die Bewertung der Sprache mit 5.9 spricht für sich! Sollte ich wieder einmal eine wissenschaftliche Arbeit schreiben, werde ich definitiv wieder auf diesen exzellenten Service zurückgreifen.»
