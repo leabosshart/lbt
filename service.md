@@ -22,7 +22,7 @@ Mein Hauptfokus liegt auf dem Texten. Zudem erledige ich Übersetzungen von Engl
 
 - von Englisch, Spanisch und Französisch auf Deutsch
 
-![](images/trados-studio-2021-certified-level-1-badge2-rws.png)
+![](images/trados-studio-2021-certified-level-1-badge2-rws.png) ![](images/SDL_badges_Postediting_Cert_280X116.jpg)
 
 ## Korrektorat & Lektorat
 
