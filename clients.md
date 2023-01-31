@@ -49,7 +49,7 @@ Patrik Frischknecht hat eine Masterarbeit an der HWZ Hochschule für Wirtschaft 
   - Zuckersüsse Schweiz, Originaltitel Swiss+Sweet, EN-DE (Kochbuch)
   - Brot Huusgmacht. Originaltitel: Swiss Bread, EN-DE (Kochbuch)
   - Haute Fondue, FR-DE (Kochbuch)
-  - Klang, Originaltitel Prrrrriiit. El libro de los sonidos, ES-DE (Kinderbuch)
+  - Klang, Originaltitel: Prrrrriiit. El libro de los sonidos, ES-DE (Kinderbuch)
   - Heidi und die Zombie-Attacke, Originaltitel: Heidi and the Half-Dead, EN-DE (Kinderbuch) [zum Buch](https://helvetiq.com/ch_de/heidi-und-die-zombie-attacke){:target="_blank"}
   - Stína, EN-DE (Kinderbuch)
   - Welche Grösse hat dein Herz? Originaltitel: De quelle taille est ton coeur? FR-DE (Kinderbuch)
