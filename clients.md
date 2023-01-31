@@ -46,7 +46,7 @@ Patrik Frischknecht hat eine Masterarbeit an der HWZ Hochschule für Wirtschaft 
 
 - **Helvetiq Verlag**:
 
-  - Zuckersüsse Schweiz, Originaltitel: Swiss+Sweet, EN-DE (Kochbuch)
+  - Zuckersüsse Schweiz, Originaltitel: Swiss+Sweet, EN-DE (Kochbuch) [zum Buch](https://helvetiq.com/ch_de/zuckersuesse-schweiz-de){:target="_blank"}
   - Brot Huusgmacht. Originaltitel: Swiss Bread, EN-DE (Kochbuch)
   - Haute Fondue, FR-DE (Kochbuch)
   - Klang, Originaltitel: Prrrrriiit. El libro de los sonidos, ES-DE (Kinderbuch)
