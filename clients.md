@@ -8,6 +8,10 @@ nav_order: 5
 
 ## Texte
 
+- **Kenzelmann Immobilien**: Überarbeitung der Website-Texte
+
+- **Addministra GmbH, Generalplanung & Baumanagement, Schadenmanagement & -expertise, Bauherrenvertretung & -beratung, Immobilienmanagement**: Überarbeitung der Website Texte inkl. Übersetzung auf Englisch
+
 - **Bischofberger AG, Lebensmittelhandel und Distribution**: Texte für die Lebensmittel-Marken Polaris, Silberwald und Silver Star
 
 - **bonacasa AG, Smart Living**: neues Konzept & Texte für ein Leporello, das die Wohnservices von bonainvest (Tochterfirma) bewirbt. Diverse Textarbeiten: Kundenbriefe, Broschüren, Inserate
@@ -42,8 +46,12 @@ Patrik Frischknecht hat eine Masterarbeit an der HWZ Hochschule für Wirtschaft 
 
 - **Helvetiq Verlag**:
 
+  - Zuckersüsse Schweiz, Originaltitel Swiss+Sweet, EN-DE (Kochbuch)
+  - Brot Huusgmacht. Originaltitel: Swiss Bread, EN-DE (Kochbuch)
+  - Haute Fondue, FR-DE (Kochbuch)
+  - Klang, Originaltitel Prrrrriiit. El libro de los sonidos, ES-DE (Kinderbuch)
+  - Heidi und die Zombie-Attacke, Originaltitel: 
   - Stína, EN-DE (Kinderbuch)
   - Welche Grösse hat dein Herz? Originaltitel: De quelle taille est ton coeur? FR-DE (Kinderbuch)
-  - Haute Fondue, FR-DE (Kochbuch)
   - Gut getippt! Originaltitel: Dans le mille! FR-DE (Spiel)
-  - Brot Huusgmacht. Originaltitel: Swiss Bread, EN-DE (Kochbuch)
+ 
