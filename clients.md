@@ -8,9 +8,9 @@ nav_order: 5
 
 ## Texte
 
-- **Kenzelmann Immobilien**: Überarbeitung der Website-Texte
+- **Kenzelmann Immobilien**: Website-Texte überarbeiten
 
-- **Addministra GmbH, Generalplanung & Baumanagement, Schadenmanagement & -expertise, Bauherrenvertretung & -beratung, Immobilienmanagement**: Überarbeitung der Website-Texte inkl. Übersetzung auf Englisch. Diverse Textarbeiten: Machbarkeitsstudien/technischen Berichten lektorieren.
+- **Addministra GmbH, Generalplanung & Baumanagement, Schadenmanagement & -expertise, Bauherrenvertretung & -beratung, Immobilienmanagement**: Website-Texte überarbeiten; Übersetzung der neuen Website auf Englisch. Diverse Textarbeiten: Machbarkeitsstudien/technische Berichte lektorieren.
 
 - **Bischofberger AG, Lebensmittelhandel und Distribution**: Texte für die Lebensmittel-Marken Polaris, Silberwald und Silver Star
 
@@ -27,7 +27,7 @@ nav_order: 5
   - Ledermann Management (Verkaufsbroschüre Immobilien Haus Höngg)
 <br><br/>
 - Zusammenarbeit mit Rolando Baron von **Wir Texten**:
-    - Redigieren der Website-Texte von Disch AG und JOGA MED AG (Lebensmittelindustrie)
+    - Website-Texte von Disch AG und JOGA MED AG (Lebensmittelindustrie) redigieren
 <br><br/>
 - **Volkshochschule Schwarzenburg**: Postkarten für Kurse an der VHS
 
