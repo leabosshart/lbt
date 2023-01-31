@@ -9,10 +9,15 @@ nav_order: 5
 ## Texte
 
 - **Kenzelmann Immobilien**: Website-Texte überarbeiten
+
 - **Addministra GmbH, Generalplanung & Baumanagement, Schadenmanagement & -expertise, Bauherrenvertretung & -beratung, Immobilienmanagement**: Website-Texte überarbeiten; Übersetzung der neuen Website auf Englisch. Diverse Textarbeiten: Machbarkeitsstudien/technische Berichte lektorieren
+
 - **Bischofberger AG, Lebensmittelhandel und Distribution**: Texte für die Lebensmittel-Marken Polaris, Silberwald und Silver Star
+
 - **bonacasa AG, Smart Living**: neues Konzept & Texte für ein Leporello, das die Wohnservices von bonainvest (Tochterfirma) bewirbt. Diverse Textarbeiten: Kundenbriefe, Broschüren, Inserate
+
 - **Hischier Weine, Weinhändler**: diverse Texte für hischierweine.ch, Blogartikel, Weihnachtskarte, Inserate, Newsletter korrigieren, Leitfaden Corporate Language
+
 - **Manor**: Produkttexte für den Onlineshop manor.ch
 
 - Aufträge in Kooperation mit der **Textagentur wortgewandt**:
