@@ -12,6 +12,8 @@ nav_order: 5
 
 - **Addministra GmbH, Generalplanung & Baumanagement, Schadenmanagement & -expertise, Bauherrenvertretung & -beratung, Immobilienmanagement**: Überarbeitung der Website-Texte inkl. Übersetzung auf Englisch
 
+- **OFFCUT Basel, Materialmarkt**: Lektorat Jahresbericht
+
 - **Bischofberger AG, Lebensmittelhandel und Distribution**: Texte für die Lebensmittel-Marken Polaris, Silberwald und Silver Star
 
 - **bonacasa AG, Smart Living**: neues Konzept & Texte für ein Leporello, das die Wohnservices von bonainvest (Tochterfirma) bewirbt. Diverse Textarbeiten: Kundenbriefe, Broschüren, Inserate
