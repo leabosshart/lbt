@@ -10,7 +10,7 @@ nav_order: 5
 
 - **Kenzelmann Immobilien**: Überarbeitung der Website-Texte
 
-- **Addministra GmbH, Generalplanung & Baumanagement, Schadenmanagement & -expertise, Bauherrenvertretung & -beratung, Immobilienmanagement**: Überarbeitung der Website-Texte inkl. Übersetzung auf Englisch
+- **Addministra GmbH, Generalplanung & Baumanagement, Schadenmanagement & -expertise, Bauherrenvertretung & -beratung, Immobilienmanagement**: Überarbeitung der Website-Texte inkl. Übersetzung auf Englisch. Diverse Textarbeiten: Lektorate von technischen Berichten und Machbarkeitsstudien.
 
 - **Bischofberger AG, Lebensmittelhandel und Distribution**: Texte für die Lebensmittel-Marken Polaris, Silberwald und Silver Star
 
