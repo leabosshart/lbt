@@ -9,15 +9,10 @@ nav_order: 5
 ## Texte
 
 - **Kenzelmann Immobilien**: Website-Texte überarbeiten
-
 - **Addministra GmbH, Generalplanung & Baumanagement, Schadenmanagement & -expertise, Bauherrenvertretung & -beratung, Immobilienmanagement**: Website-Texte überarbeiten; Übersetzung der neuen Website auf Englisch. Diverse Textarbeiten: Machbarkeitsstudien/technische Berichte lektorieren
-
 - **Bischofberger AG, Lebensmittelhandel und Distribution**: Texte für die Lebensmittel-Marken Polaris, Silberwald und Silver Star
-
 - **bonacasa AG, Smart Living**: neues Konzept & Texte für ein Leporello, das die Wohnservices von bonainvest (Tochterfirma) bewirbt. Diverse Textarbeiten: Kundenbriefe, Broschüren, Inserate
-
 - **Hischier Weine, Weinhändler**: diverse Texte für hischierweine.ch, Blogartikel, Weihnachtskarte, Inserate, Newsletter korrigieren, Leitfaden Corporate Language
-
 - **Manor**: Produkttexte für den Onlineshop manor.ch
 
 - Aufträge in Kooperation mit der **Textagentur wortgewandt**:
@@ -26,9 +21,11 @@ nav_order: 5
   - SENS, Elektrorecyling (Kampagnen-Texte für Website, Publireportage, Medienmitteilung)
   - Ledermann Management (Verkaufsbroschüre Immobilien Haus Höngg)
 <br><br/>
+
 - Zusammenarbeit mit Rolando Baron von **Wir Texten**:
     - Website-Texte von Disch AG und JOGA MED AG (Lebensmittelindustrie) redigieren
 <br><br/>
+
 - **Volkshochschule Schwarzenburg**: Postkarten für Kurse an der VHS
 
 «Für die Auftraggeberin Volkshochschule Schwarzenburg suchte ich eine Texterin für Postkarten, mit denen die Volkshochschule ihr Kursangebot anpreisen wollte. Lea Bosshart hat diese Aufgabe mit ihren originellen, witzigen Sprüchen mehr als erfüllt. Die Zusammenarbeit mit ihr war angenehm und locker – und die Kundin mit der Qualität überaus zufrieden. Gerne wieder.»
