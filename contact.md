@@ -15,8 +15,8 @@ Auch Flaschenpost ist erlaubt. Na looooos:
 [comment]: <> ( <a href="mailto:info@leabosshart.ch">info@leabosshart.ch</a> )
 
 Lea Bosshart Text<br/>
-Klingelbergstrasse 85<br/>
-4056 Basel
+Sommergasse 18<br/>
+4123 Allschwil
 
 [LinkedIn](https://www.linkedin.com/in/lea-bosshart-454a6842/){:target="_blank"}
 
