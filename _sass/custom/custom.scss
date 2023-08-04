@@ -1,3 +1,6 @@
+// overwrite lazy loading of images
+img {loading: eager !important;}
+
 // hide footer
 .site-footer {display: none;}
 
