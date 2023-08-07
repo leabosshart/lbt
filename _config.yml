@@ -3,7 +3,8 @@ description: Text, Übersetzung, Lektorat oder Korrektorat gewünscht? Das Schwe
 author: Lea Bosshart
 
 # remote_theme: pmarsceill/just-the-docs
-remote_theme: leabosshart/just-the-docs
+# remote_theme: leabosshart/just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.5.4
 color_scheme: nil
 search_enabled: false
 
