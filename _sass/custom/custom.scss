@@ -47,6 +47,11 @@
     display: none !important;
 }
 
+* {
+    /* Remove blue highlight of button on mobile */
+    -webkit-tap-highlight-color: transparent;
+}
+
 // allow line breaks for links
 // .main-content-wrap a {
 //     white-space: normal !important;
