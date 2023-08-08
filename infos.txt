@@ -46,4 +46,5 @@ Ich bin ein ganz normaler Lauftext. Bla bla bla.
 <a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a>
 
 Hier kannst du auch mal schauen und lernen wie es funktioniert:
-https://pmarsceill.github.io/just-the-docs/
+https://just-the-docs.com/
+https://github.com/just-the-docs/just-the-docs
