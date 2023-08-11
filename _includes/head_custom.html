@@ -1,3 +1,7 @@
 {% if page.title == "Home" %}
-<script>document.title = "Lea Bosshart: Text, Übersetzung, Lektorat & Korrektorat";</script>
+<title>Lea Bosshart: Text, Übersetzung, Lektorat & Korrektorat</title>
+{% endif %}
+
+{% if page.title != "Home" %}
+<title>{{ page.title }} - {{ site.title }}</title>
 {% endif %}
