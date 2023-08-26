@@ -18,7 +18,7 @@ Mein Fokus liegt auf dem Texten. Zudem erledige ich Übersetzungen von Englisch,
 - Blogbeiträge
 - bestehende Texte redigieren
 
-## Übersetzungen
+## Übersetzung & Transkreation
 
 - von Englisch, Spanisch und Französisch auf Deutsch
 
