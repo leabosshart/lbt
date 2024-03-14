@@ -29,5 +29,5 @@ Mein Fokus liegt auf dem Texten. Zudem erledige ich Übersetzungen von Englisch,
 
 - fehlerfreie und stilsichere Texte
 
-  Jetzt kontaktieren unter
+## Jetzt kontaktieren unter
 [info@leabosshart.ch](mailto:info@leabosshart.ch){: .btn .btn-purple }
