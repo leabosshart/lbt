@@ -28,3 +28,5 @@ Mein Fokus liegt auf dem Texten. Zudem erledige ich Übersetzungen von Englisch,
 ## Korrektorat & Lektorat
 
 - fehlerfreie und stilsichere Texte
+
+Jetzt kontaktieren unter info@leabosshart.ch{: .btn .btn-purple }
