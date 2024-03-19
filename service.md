@@ -31,3 +31,13 @@ Mein Fokus liegt auf dem Texten. Zudem erledige ich Übersetzungen von Englisch,
 
 ## Jetzt kontaktieren unter
 [info@leabosshart.ch](mailto:info@leabosshart.ch){: .btn .btn-purple }
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11385788455"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-11385788455');
+</script>
