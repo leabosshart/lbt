@@ -46,3 +46,13 @@ Ich habe mich schon immer gerne mit Worten befasst. Als Kind ohne Fernseher aufg
 - Sept. 2018: LSA Bootcamp (Leading Swiss Agencies). Praktische und theoretische Weiterbildung im Bereich Strategie, Kreation, Medienrecht usw.
 
 - seit 2011: diverse Kurse an der SfG Basel. Siebdruck, Illustration, Animation, Lithografie
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11385788455"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-11385788455');
+</script>
