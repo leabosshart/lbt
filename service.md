@@ -21,6 +21,7 @@ Mein Fokus liegt auf dem Texten. Zudem erledige ich Übersetzungen von Englisch,
 **Zertifikat Professional Writing Workshop, Text Akademie Zürich. Prädikat Prüfung: mit sehr gutem Erfolg bestanden**
 
 **Zertifikat CAS Marketing Writer – UX Writing, Text Akademie/HWZ Zürich. Schlussnote: 5.5**
+<br><br/>
 
 ## Übersetzung & Transkreation
 
