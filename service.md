@@ -16,13 +16,11 @@ Mein Fokus liegt auf dem Texten. Zudem erledige ich Übersetzungen von Englisch,
 - Lokalisierung von Websites für den Schweizer Markt
 - redaktionelle Beiträge
 - Blogbeiträge
-- bestehende Texte redigieren
-  
->>**Zertifikat Professional Writing Workshop, Text Akademie Zürich. Prädikat Prüfung: mit sehr gutem Erfolg bestanden**
->>
->>**Zertifikat CAS Marketing Writer – UX Writing, Text Akademie/HWZ Zürich. Schlussnote: 5.5**
 
-## Übersetzung & Transkreation
+ - **Zertifikat Professional Writing Workshop, Text Akademie Zürich. Prädikat Prüfung: mit sehr gutem Erfolg bestanden**
+ - **Zertifikat CAS Marketing Writer – UX Writing, Text Akademie/HWZ Zürich. Schlussnote: 5.5**
+
+## Übersetzung, Transkreation, Lokalisierung
 
 - von Englisch, Spanisch und Französisch auf Deutsch
 
@@ -31,7 +29,12 @@ Mein Fokus liegt auf dem Texten. Zudem erledige ich Übersetzungen von Englisch,
 
 ## Korrektorat & Lektorat
 
-- fehlerfreie und stilsichere Texte
+- für fehlerfreie und stilsichere Texte
+- bestehende Texte redigieren
+
+## Transkription
+
+- bspw. von Videos auf Schweizerdeutsch in Standardhochdeutsch
 
 ## Jetzt kontaktieren unter
 [info@leabosshart.ch](mailto:info@leabosshart.ch){: .btn .btn-purple }
