@@ -6,7 +6,7 @@ nav_order: 2
 
 # Angebot
 
-Mein Fokus liegt auf dem Texten. Zudem erledige ich Übersetzungen von Englisch, Französisch und Spanisch auf Deutsch. Und da ich etwas allergisch auf Rechtschreibfehler und stilistische Stolpersteine bin, biete ich mit dem gleichen Enthusiasmus ein Korrektorat und Lektorat Ihrer Texte an.
+Als ausgebildete Werbetexterin liegt mein Fokus auf dem Texten. Aufgrund meines Studiums übersetze ich zudem Texte von Englisch, Französisch und Spanisch auf Deutsch. Und da ich etwas allergisch auf Rechtschreibfehler und stilistische Stolpersteine bin, biete ich mit dem gleichen Enthusiasmus ein Korrektorat und Lektorat Ihrer Texte an.
 {: .fs-6 .fw-300 }
 
 ## Text
@@ -20,7 +20,7 @@ Mein Fokus liegt auf dem Texten. Zudem erledige ich Übersetzungen von Englisch,
  - **Zertifikat Professional Writing Workshop, Text Akademie Zürich. Prädikat Prüfung: mit sehr gutem Erfolg bestanden**
  - **Zertifikat CAS Marketing Writer – UX Writing, Text Akademie/HWZ Zürich. Schlussnote: 5.5**
 
-## Übersetzung, Transkreation, Lokalisierung
+## Übersetzung & Transkreation
 
 - von Englisch, Spanisch und Französisch auf Deutsch
 
