@@ -16,9 +16,9 @@ Als ausgebildete Werbetexterin liegt mein Fokus auf dem Texten. Aufgrund meines 
 - Lokalisierung von Websites für den Schweizer Markt
 - redaktionelle Beiträge
 - Blogbeiträge
- 
-   **Zertifikat Professional Writing Workshop, Text Akademie Zürich. Prädikat Prüfung: mit sehr gutem Erfolg bestanden**
-   **Zertifikat CAS Marketing Writer – UX Writing, Text Akademie/HWZ Zürich. Schlussnote: 5.5**
+
+**Zertifikat Professional Writing Workshop, Text Akademie Zürich. Prädikat Prüfung: mit sehr gutem Erfolg bestanden**
+**Zertifikat CAS Marketing Writer – UX Writing, Text Akademie/HWZ Zürich. Schlussnote: 5.5**
 
 ## Übersetzung & Transkreation
 
