@@ -37,7 +37,7 @@ nav_order: 5
 
 Silvia Rohrbach, freischaffende Grafikerin
 
-## Lektorat und Korrektorat
+## Korrektorat & Lektorat
  - **OFFCUT Basel, Materialmarkt**: Lektorat Jahresbericht
  - vom **Korrekturstorch** vermittelte Aufträge: Korrektorat & Lektorat von Studierenden-Arbeiten
 
