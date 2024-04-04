@@ -38,7 +38,8 @@ Als ausgebildete Werbetexterin liegt mein Fokus auf dem Texten. Aufgrund meines 
 - Begleitung Ihres Buchprojekts oder Ihrer wissenschaftlichen Abschlussarbeit
 
 
-Jetzt kontaktieren unter
+Jetzt kontaktieren
+{: .fs-6 .fw-300 }
 
 [info@leabosshart.ch](mailto:info@leabosshart.ch){: .btn .btn-purple }
 
