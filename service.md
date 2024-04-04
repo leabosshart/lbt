@@ -6,7 +6,7 @@ nav_order: 2
 
 # Angebot
 
-Als ausgebildete Werbetexterin liegt mein Fokus auf dem Texten. Aufgrund meines Studiums übersetze ich zudem Texte von Englisch, Französisch und Spanisch auf Deutsch. Und da ich etwas allergisch auf Rechtschreibfehler und stilistische Stolpersteine bin, biete ich mit dem gleichen Enthusiasmus ein Korrektorat und Lektorat Ihrer Texte an.
+Als ausgebildete Werbetexterin liegt mein Fokus auf dem Texten. Aufgrund meines Studiums übersetze ich zudem Texte aus dem Englischen, Französischen und Spanischen ins Deutsche. Und da ich etwas allergisch auf Rechtschreibfehler und stilistische Stolpersteine bin, biete ich mit dem gleichen Enthusiasmus ein Korrektorat und Lektorat Ihrer Texte an.
 {: .fs-6 .fw-300 }
 
 ## Text
@@ -19,7 +19,7 @@ Als ausgebildete Werbetexterin liegt mein Fokus auf dem Texten. Aufgrund meines 
 
 ## Übersetzung & Transkreation
 
-- von Englisch, Spanisch und Französisch auf Deutsch
+- vom Englischen, Spanischen und Französischen ins Deutsche
 
 ![](images/trados-studio-2021-certified-level-1-badge2-rws.png)
 ![](images/SDL_badges_Postediting_Cert_280X116.jpg)
@@ -31,7 +31,7 @@ Als ausgebildete Werbetexterin liegt mein Fokus auf dem Texten. Aufgrund meines 
 
 ## Transkription
 
-- bspw. von Videos auf Schweizerdeutsch in Standardhochdeutsch
+- bspw. Videos in Schweizerdeutsch ins Standardhochdeutsche
 
 ## Schreibmentorat
 
