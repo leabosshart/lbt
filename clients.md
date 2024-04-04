@@ -6,7 +6,7 @@ nav_order: 5
 
 # Kunden & Referenzen
 
-## Texte
+## Text
 
 - **Kenzelmann Immobilien**: Website-Texte überarbeiten
 
@@ -37,7 +37,7 @@ nav_order: 5
 
 Silvia Rohrbach, freischaffende Grafikerin
 
-## Lektorate und Korrektorate
+## Lektorat und Korrektorat
  - **OFFCUT Basel, Materialmarkt**: Lektorat Jahresbericht
  - vom **Korrekturstorch** vermittelte Aufträge: Korrektorat & Lektorat von Studierenden-Arbeiten
 
@@ -45,7 +45,7 @@ Silvia Rohrbach, freischaffende Grafikerin
 
 Patrik Frischknecht hat eine Masterarbeit an der HWZ Hochschule für Wirtschaft Zürich zum Thema *Robotic Process Automation im Controlling von Banken* verfasst.
 
-## Übersetzungen
+## Übersetzung
 
 - **Helvetiq Verlag**:
 
@@ -57,4 +57,7 @@ Patrik Frischknecht hat eine Masterarbeit an der HWZ Hochschule für Wirtschaft 
   - **Stína**. EN-DE (Kinderbuch)
   - **Welche Grösse hat dein Herz?** Originaltitel: De quelle taille est ton coeur? FR-DE (Kinderbuch)
   - **Gut getippt!** Originaltitel: Dans le mille! FR-DE (Spiel)
- 
+
+ ## Schreibmentorat
+
+- **Edition Unik**: Begleitung von Buchprojekten (Beratung und Lektorat)
