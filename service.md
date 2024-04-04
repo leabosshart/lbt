@@ -26,12 +26,12 @@ Als ausgebildete Werbetexterin liegt mein Fokus auf dem Texten. Aufgrund meines 
 
 ## Korrektorat & Lektorat
 
-- für fehlerfreie und stilsichere Texte
-- bestehende Texte redigieren
+- Korrektorat für fehlerfreie Texte (Grammatik, Interpunktion, Rechtschreibung)
+- Lektorat für stilsichere Texte mit klarem Aufbau und rotem Faden (plus Korrektorat)
 
 ## Transkription
 
-- bspw. Videos in Schweizerdeutsch ins Standardhochdeutsche
+- bspw. Transkription eines auf Schweizerdeutsch gesprochenen Videos ins Standardhochdeutsche
 
 ## Schreibmentorat
 
