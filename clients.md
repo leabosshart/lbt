@@ -58,6 +58,6 @@ Patrik Frischknecht hat eine Masterarbeit an der HWZ Hochschule für Wirtschaft 
   - **Welche Grösse hat dein Herz?** Originaltitel: De quelle taille est ton coeur? FR-DE (Kinderbuch)
   - **Gut getippt!** Originaltitel: Dans le mille! FR-DE (Spiel)
 
- ## Schreibmentorat
+## Schreibmentorat
 
 - **Edition Unik**: Begleitung von Buchprojekten (Beratung und Lektorat)
