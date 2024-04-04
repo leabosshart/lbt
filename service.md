@@ -33,6 +33,10 @@ Als ausgebildete Werbetexterin liegt mein Fokus auf dem Texten. Aufgrund meines 
 
 - bspw. von Videos auf Schweizerdeutsch in Standardhochdeutsch
 
+## Schreibmentorat
+
+- Begleitung Ihres Buchprojekts oder Ihrer wissenschaftlichen Abschlussarbeit
+
 ## Jetzt kontaktieren unter
 [info@leabosshart.ch](mailto:info@leabosshart.ch){: .btn .btn-purple }
 
