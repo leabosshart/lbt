@@ -7,7 +7,7 @@ nav_order: 1
 
 # Texte für Werbung
 
-Kinderbooklets, Postkarten, Webtexte, Flyer und klassische Anzeigen: geistige Beweglichkeit, eine schnelle Auffassungsgabe und Vielfältigkeit sind beim Werbetexten gefragt.
+Kinderbooklets, Postkarten, Webtexte, Flyer und klassische Anzeigen: Geistige Beweglichkeit, eine schnelle Auffassungsgabe und Vielfältigkeit sind beim Werbetexten gefragt.
 {: .fs-6 .fw-300 }
 
 ## SENS: Kampagne SENS City, Webtexte
