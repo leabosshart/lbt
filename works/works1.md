@@ -10,9 +10,16 @@ nav_order: 1
 Kinderbooklets, Postkarten, Webtexte, Flyer und klassische Anzeigen: Geistige Beweglichkeit, eine schnelle Auffassungsgabe und Vielfältigkeit sind beim Werbetexten gefragt.
 {: .fs-6 .fw-300 }
 
+## Hair and More GmbH
+
+Schön von Kopf bis Fuss: Bei Hair and More in Füllinsdorf steht die Schönheit im Mittelpunkt. Ich verfasste sämtliche Texte für die Website.
+
+<img src="images/works1/hairandmore_1.jpg" loading="lazy" alt="" width="768" height="462">
+<img src="images/works1/hairandmore_2.jpg" loading="lazy" alt="" width="768" height="462">
+
 ## SENS: Kampagne SENS City, Webtexte
 
-Die Textagentur wortgewandt hat mich mit dem Texten der Website [sens-city](https://www.sens-city.ch){:target="_blank"} für die Stiftung SENS eRecycling beauftragt.
+Die Textagentur wortgewandt beauftragte mich mit den Texten der Website [sens-city](https://www.sens-city.ch){:target="_blank"} für die Stiftung SENS eRecycling.
 
 <img src="images/works1/sens-city-4.jpg" loading="lazy" alt="" width="768" height="462">
 <img src="images/works1/sens-city-5.jpg" loading="lazy" alt="" width="768" height="462">
