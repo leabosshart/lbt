@@ -17,6 +17,13 @@ Schön von Kopf bis Fuss: Bei Hair and More in Füllinsdorf steht die Schönheit
 <img src="images/works1/hairandmore_1.jpg" loading="lazy" alt="" width="768" height="462">
 <img src="images/works1/hairandmore_2.jpg" loading="lazy" alt="" width="768" height="462">
 
+## Kenzelmann Immobilien
+
+Das baut auf: Texte schreiben für die Website einer etablierten Immobilienagentur aus dem Wallis.
+
+<img src="images/works1/kenzelmann_1.jpg" loading="lazy" alt="" width="768" height="462">
+<img src="images/works1/kenzelmann_2.jpg" loading="lazy" alt="" width="768" height="462">
+
 ## SENS: Kampagne SENS City, Webtexte
 
 Die Textagentur wortgewandt beauftragte mich mit den Texten der Website [sens-city](https://www.sens-city.ch){:target="_blank"} für die Stiftung SENS eRecycling.
