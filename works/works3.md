@@ -14,6 +14,8 @@ Tinte und Feder werden für Übersetzungen aus dem Englischen, Französischen un
 
 Atemberaubende Klettersteige in der ganzen Schweiz, in einem Buch gebündelt. Beim Übersetzen dieses Buches vom Französischen ins Deutsche wurde mir manchmal regelrecht schwindlig, aber irgendwie hat es auch meine Abenteuerlust geweckt.
 
+<img src="images/works3/viaferrata_2.jpg" loading="lazy" alt="" width="512" height="494">
+<img src="images/works3/viaferrata_1.jpg" loading="lazy" alt="" width="512" height="423">
 
 ## Helvetiq Verlag: Kinderbuch «STÍNA» von Lani Yamamoto
 
