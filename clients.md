@@ -48,7 +48,8 @@ Patrik Frischknecht hat eine Masterarbeit an der HWZ Hochschule für Wirtschaft 
 ## Übersetzung
 
 - **Helvetiq Verlag**:
-
+  
+  - **Via Ferrata: 30 atemberaubende Klettersteige in der Schweiz**. Originaltitel: Via Ferrata: 30 parcours haut perchés en Suisse, FR–DE (Outdoor) [zum Buch](https://helvetiq.com/de/via-ferrata-de){:target="_blank"}
   - **Zuckersüsse Schweiz**. Originaltitel: Swiss+Sweet, EN–DE (Kochbuch) [zum Buch](https://helvetiq.com/ch_de/zuckersuesse-schweiz-de){:target="_blank"}
   - **Brot Huusgmacht**. Originaltitel: Swiss Bread, EN–DE (Kochbuch) [zum Buch](https://helvetiq.com/ch_de/brot-huusgmacht-de){:target="_blank"}
   - **Haute Fondue**. FR–DE (Kochbuch) [zum Buch](https://helvetiq.com/ch_de/haute-fondue-de){:target="_blank"}
