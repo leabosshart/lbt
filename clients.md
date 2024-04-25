@@ -8,7 +8,9 @@ nav_order: 5
 
 ## Text
 
-- **Kenzelmann Immobilien**: Website-Texte überarbeiten
+- **Hair and More GmbH**: Texte für Website
+
+- **Kenzelmann Immobilien**: neue Texte für Website
 
 - **Addministra GmbH, Generalplanung & Baumanagement, Schadenmanagement & -expertise, Bauherrenvertretung & -beratung, Immobilienmanagement**: Website-Texte überarbeiten; Übersetzung der neuen Website ins Englische. Diverse Textarbeiten: Machbarkeitsstudien/technische Berichte lektorieren
 
