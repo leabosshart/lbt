@@ -7,7 +7,7 @@ nav_order: 3
 
 # Übersetzungen
 
-Tinte und Feder werden für Übersetzungen von Englisch und Französisch auf Deutsch gezückt.
+Tinte und Feder werden für Übersetzungen von Englisch, Französisch und Spanisch ins Deutsche gezückt.
 {: .fs-6 .fw-300 }
 
 ## Helvetiq Verlag: Kinderbuch «STÍNA» von Lani Yamamoto
