@@ -8,6 +8,8 @@ nav_order: 5
 
 ## Text
 
+- **Die Schweizerische Post**: Texte für die Karriereseite der Post (Employer Branding) im Auftrag der Digitalagentur SUAN
+  
 - **Hair and More GmbH**: Texte für Website
 
 - **Kenzelmann Immobilien**: neue Texte für Website
