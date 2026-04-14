@@ -11,7 +11,7 @@ nav_order: 3
 Ich habe mich schon immer gerne mit Worten befasst. Als Kind ohne Fernseher aufgewachsen, tauchte ich schon bald in Bücherwelten ab. Deshalb auch meine Entscheidung, nach dem gestalterischen Vorkurs und einem angeknabberten Kunststudium Sprachen und Literatur zu studieren. Ins Texten bin ich nach dem Studium reingeschlittert – oder soll ich eher sagen reingetippelt –, irgendwie ja auch naheliegend, als sprach- und schreibbegeisterter Kopf, dessen halbe Seele für die Gestaltung schlägt.
 {: .fs-6 .fw-300 }
 
-## CV
+## Lebenslauf
 
 - seit Mai 2019: vollständig freischaffend
 
@@ -37,7 +37,8 @@ Ich habe mich schon immer gerne mit Worten befasst. Als Kind ohne Fernseher aufg
 
 ## Weiterbildungen und Interessen
 
-- voraussichtlich ab Frühling 2025: Fachausweis Texterin
+- Sommer 2026: eidg. Fachausweis Texterin & Konzepterin
+- Weiterbildungen: KI in der Kreativwirtschaft und im Marketing (Interactive Dock, Swiss Marketing Academy)
 - CAS Marketing Writer & UX Writing
 - seit Feb. 2020: selbständige Weiterbildung in Content-Marketing, Texten fürs Web, SEO, UX Writing, Storytelling
   - [UX Writing Fundamentals](https://uxwriterscollective.com/uxwc-the-fundamentals-course/){:target="_blank"} Kurs in 7 Modulen für ein Zertifikat in UX Writing. Anbieter: UX Writers Collective
