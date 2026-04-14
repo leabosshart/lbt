@@ -37,8 +37,8 @@ Ich habe mich schon immer gerne mit Worten befasst. Als Kind ohne Fernseher aufg
 
 ## Weiterbildungen und Interessen
 
-- Sommer 2026: eidg. Fachausweis Texterin & Konzepterin
-- Weiterbildungen: KI in der Kreativwirtschaft und im Marketing (Interactive Dock, Swiss Marketing Academy)
+- eidg. Fachausweis Texterin & Konzepterin (ab Sommer 2026)
+- KI in der Kreativwirtschaft und im Marketing (Interactive Dock, Swiss Marketing Academy)
 - CAS Marketing Writer & UX Writing
 - seit Feb. 2020: selbständige Weiterbildung in Content-Marketing, Texten fürs Web, SEO, UX Writing, Storytelling
   - [UX Writing Fundamentals](https://uxwriterscollective.com/uxwc-the-fundamentals-course/){:target="_blank"} Kurs in 7 Modulen für ein Zertifikat in UX Writing. Anbieter: UX Writers Collective
